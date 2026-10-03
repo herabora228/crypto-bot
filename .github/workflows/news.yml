@@ -1,39 +1,49 @@
-name: Crypto news posts
+name: Crypto posts (schedule)
 
+# Расписание постов задаётся в run.py (SCHEDULE, время по Вене).
+# GitHub будит бота каждые 30 минут; бот сам выбирает ближайший слот,
+# заранее готовит пост и публикует его ровно в нужную минуту.
 on:
   schedule:
-    # Время в UTC. 9 новостей в день. Летом по Вене это
-    # 10:00, 11:30, 13:00, 14:30, 16:00, 17:30, 19:00, 20:30, 22:00 (зимой на час раньше).
-    - cron: "0 8,11,14,17,20 * * *"
-    - cron: "30 9,12,15,18 * * *"
-  workflow_dispatch: # кнопка ручного запуска для теста
+    - cron: "0,30 6-20 * * *"   # UTC; покрывает 8:00–22:30 по Вене летом и 7:00–21:30 зимой
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "auto — по расписанию; news / summary — опубликовать сразу"
+        type: choice
+        options: [news, summary, auto]
+        default: news
 
 permissions:
   contents: write # чтобы сохранять posted.json (защита от повторов)
 
 concurrency:
-  group: crypto-news
+  group: crypto-posts
   cancel-in-progress: false
 
 jobs:
   post:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
       - run: pip install -r requirements.txt
-      - run: python news.py
+      - run: python run.py ${{ (inputs.mode && inputs.mode != 'auto') && inputs.mode || '' }}
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          NEWS_PER_RUN: "1"
       - name: Save posted.json
+        if: always()
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
           git add posted.json
-          git diff --cached --quiet || git commit -m "update posted news"
+          git diff --cached --quiet && exit 0
+          git commit -m "update posted news"
+          git pull --rebase -X theirs || git rebase --abort
           git push
