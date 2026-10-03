@@ -278,17 +278,14 @@ def send(text, image=None):
 
 # ---------- main ----------
 
-def main():
-    state = load_state()
+def prepare(state, limit=NEWS_PER_RUN):
+    """Находит свежие новости и пишет посты через ИИ. Ничего не отправляет.
+    Возвращает список (post, image, title). Просмотренные новости помечает в state."""
     seen = set(state["posted"])
     news = [n for n in fetch_news() if n["link"] not in seen and norm(n["title"]) not in seen]
-    if not news:
-        print("Свежих новостей нет.")
-        return
-
-    published, used_titles = 0, set()
+    ready, used_titles = [], set()
     for item in news:
-        if published >= NEWS_PER_RUN:
+        if len(ready) >= limit:
             break
         if norm(item["title"]) in used_titles:
             continue
@@ -301,15 +298,25 @@ def main():
         if not ai.get("relevant", True):
             print("Пропущено (нерелевантно):", item["title"])
             continue
-        post = build_post(item, ai)
-        if DRY_RUN:
-            print(post, "\n" + "-" * 40)
-        else:
-            send(post, item.get("image"))
-            print("Опубликовано:", item["title"], "| картинка:", item.get("image") or "нет")
-        published += 1
-        time.sleep(5)
+        ready.append((build_post(item, ai), item.get("image"), item["title"]))
+    if not ready:
+        print("Свежих новостей нет.")
+    return ready
 
+
+def publish(ready):
+    for post, image, title in ready:
+        if DRY_RUN:
+            print(post, "| картинка:", image or "нет", "\n" + "-" * 40)
+        else:
+            send(post, image)
+            print("Опубликовано:", title, "| картинка:", image or "нет")
+        time.sleep(3)
+
+
+def main():
+    state = load_state()
+    publish(prepare(state))
     if not DRY_RUN:
         save_state(state)
 
