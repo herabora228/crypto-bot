@@ -118,9 +118,80 @@ def build_post(markets, glob, fng, now=None):
     return "\n".join(lines)
 
 
-def send(text):
+def get_btc_week():
+    """Цены BTC за 7 дней (почасовые точки) с CoinGecko: список (datetime, price)."""
+    r = requests.get(
+        f"{CG}/coins/bitcoin/market_chart",
+        params={"vs_currency": "usd", "days": 7},
+        timeout=20,
+    )
+    r.raise_for_status()
+    return [(datetime.fromtimestamp(ts / 1000, timezone.utc), p) for ts, p in r.json()["prices"]]
+
+
+def make_chart(points):
+    """Рисует PNG-график цены BTC за неделю (тёмная тема под Telegram). Возвращает bytes."""
+    import io
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+    import matplotlib.dates as mdates
+    from matplotlib.ticker import FuncFormatter
+
+    SURFACE, TEXT, MUTED, GRID, LINE = "#1a1a19", "#ffffff", "#c3c2b7", "#383835", "#3987e5"
+    xs = [p[0] for p in points]
+    ys = [p[1] for p in points]
+    change = (ys[-1] / ys[0] - 1) * 100
+
+    fig, ax = plt.subplots(figsize=(10, 5.6), dpi=120)
+    fig.patch.set_facecolor(SURFACE)
+    ax.set_facecolor(SURFACE)
+
+    ax.plot(xs, ys, color=LINE, linewidth=2.2, solid_capstyle="round")
+    ax.fill_between(xs, ys, min(ys), color=LINE, alpha=0.12, linewidth=0)
+    ax.scatter([xs[-1]], [ys[-1]], s=60, color=LINE, edgecolor=SURFACE, linewidth=2, zorder=3)
+    ax.annotate(
+        f"${ys[-1]:,.0f}".replace(",", " "),
+        (xs[-1], ys[-1]), xytext=(-10, 12), textcoords="offset points",
+        ha="right", color=TEXT, fontsize=13, fontweight="bold",
+    )
+
+    ax.set_title("Bitcoin за 7 дней, USD", loc="left", color=TEXT, fontsize=16, fontweight="bold", pad=26)
+    ax.text(0, 1.02, f"{'+' if change >= 0 else ''}{change:.2f}% за неделю",
+            transform=ax.transAxes, color=MUTED, fontsize=12)
+
+    ax.grid(axis="y", color=GRID, linewidth=0.8)
+    ax.grid(axis="x", visible=False)
+    for s in ax.spines.values():
+        s.set_visible(False)
+    ax.tick_params(colors=MUTED, labelsize=10, length=0)
+    ax.yaxis.set_major_formatter(FuncFormatter(lambda v, _: f"${v/1000:,.0f}k" if v >= 10000 else f"${v:,.0f}"))
+    ax.xaxis.set_major_locator(mdates.DayLocator())
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%d.%m"))
+    pad = (max(ys) - min(ys)) * 0.08 or 1
+    ax.set_ylim(min(ys) - pad, max(ys) + pad * 2)
+    ax.margins(x=0.01)
+
+    buf = io.BytesIO()
+    fig.tight_layout()
+    fig.savefig(buf, format="png", facecolor=SURFACE)
+    plt.close(fig)
+    return buf.getvalue()
+
+
+def send(text, chart=None):
     token = os.environ["BOT_TOKEN"]
     chat = os.environ["CHANNEL_ID"]
+    if chart and len(text) <= 1024:
+        r = requests.post(
+            f"https://api.telegram.org/bot{token}/sendPhoto",
+            data={"chat_id": chat, "caption": text, "parse_mode": "HTML"},
+            files={"photo": ("btc_week.png", chart, "image/png")},
+            timeout=60,
+        )
+        if r.ok:
+            return
+        print("sendPhoto failed, sending text:", r.text[:200], file=sys.stderr)
     r = requests.post(
         f"https://api.telegram.org/bot{token}/sendMessage",
         json={
@@ -137,10 +208,18 @@ def send(text):
 
 def main():
     post = build_post(get_markets(), get_global(), get_fng())
+    chart = None
+    try:
+        chart = make_chart(get_btc_week())
+    except Exception as e:
+        print("chart error:", e, file=sys.stderr)
     if os.environ.get("DRY_RUN") == "1":
         print(post)
+        if chart:
+            open("btc_week.png", "wb").write(chart)
+            print("График сохранён в btc_week.png")
     else:
-        send(post)
+        send(post, chart)
         print("Отправлено ✅")
 
 
