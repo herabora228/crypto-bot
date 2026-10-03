@@ -65,17 +65,33 @@ def main():
     forced = sys.argv[1] if len(sys.argv) > 1 else None
 
     if forced in ("news", "summary"):
-        at, kind = datetime.now(TZ), forced
-        print(f"Ручной запуск: {kind}")
-    else:
+        print(f"Ручной запуск: {forced}")
+        run_slot(datetime.now(TZ), forced, state)
+        if not news.DRY_RUN:
+            news.save_state(state)
+        return
+
+    # Обрабатываем все слоты в окне: сначала пропущенный (если GitHub опоздал),
+    # затем ближайший предстоящий — чтобы он вышел ровно вовремя, а не со следующим запуском.
+    handled = 0
+    while True:
         now = datetime.now(TZ)
         slot = find_slot(now, set(done))
         if not slot:
-            print(f"{now:%H:%M} по Вене — ближайших слотов нет, выхожу.")
-            return
+            break
         at, kind = slot
         print(f"Слот {at:%H:%M} ({kind}), сейчас {now:%H:%M}.", flush=True)
+        run_slot(at, kind, state)
+        done.append(slot_key(at))
+        state["slots_done"] = done[-60:]
+        if not news.DRY_RUN:
+            news.save_state(state)
+        handled += 1
+    if not handled:
+        print(f"{datetime.now(TZ):%H:%M} по Вене — ближайших слотов нет, выхожу.")
 
+
+def run_slot(at, kind, state):
     if kind == "news":
         ready = news.prepare(state, limit=1)  # ИИ работает заранее, до нужной минуты
         wait_until(at)
@@ -83,12 +99,6 @@ def main():
     else:
         wait_until(at)
         bot.main()  # курсы берём в момент публикации, чтобы цифры были свежими
-
-    if not forced:
-        done.append(slot_key(at))
-        state["slots_done"] = done[-60:]
-    if not news.DRY_RUN:
-        news.save_state(state)
 
 
 if __name__ == "__main__":
