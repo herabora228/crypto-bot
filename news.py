@@ -118,18 +118,31 @@ def fetch_news():
     return items
 
 
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
+
+
 def fetch_article(url, limit=4000):
-    """Пытается достать текст статьи (абзацы <p>), чтобы у ИИ было больше конкретики."""
+    """Достаёт текст статьи (абзацы <p>) и обложку (og:image). Возвращает (text, image_url)."""
     try:
-        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        r = requests.get(url, timeout=20, headers=UA)
         r.raise_for_status()
-        paras = re.findall(r"<p[^>]*>(.*?)</p>", r.text, flags=re.S | re.I)
-        text = " ".join(clean_html(p) for p in paras)
-        text = re.sub(r"\s+", " ", text).strip()
-        return text[:limit] if len(text) > 200 else ""
+        page = r.text
+        paras = re.findall(r"<p[^>]*>(.*?)</p>", page, flags=re.S | re.I)
+        text = re.sub(r"\s+", " ", " ".join(clean_html(p) for p in paras)).strip()
+        img = None
+        for pat in (
+            r'<meta[^>]+property=["\']og:image(?::secure_url)?["\'][^>]+content=["\']([^"\']+)',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image',
+            r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)',
+        ):
+            m = re.search(pat, page, flags=re.I)
+            if m:
+                img = html.unescape(m.group(1))
+                break
+        return (text[:limit] if len(text) > 200 else ""), img
     except Exception as e:
         print(f"article error {url}: {e}", file=sys.stderr)
-        return ""
+        return "", None
 
 
 def norm(title):
@@ -167,7 +180,7 @@ PROMPT = """Ты редактор русскоязычного Telegram-кана
   "relevant": true/false,
   "emoji": "одно эмодзи по теме",
   "headline": "заголовок до 80 символов: суть события с главной цифрой или названием",
-  "body": "2–4 коротких предложения с конкретными фактами: что произошло, цифры, детали",
+  "body": "2–4 коротких предложения с конкретными фактами: что произошло, цифры, детали (до 700 символов)",
   "takeaway": "одна фраза о практическом последствии события (только если оно прямо следует из фактов), иначе пустая строка"
 }}"""
 
@@ -217,13 +230,44 @@ def tg(method, payload):
     return r
 
 
+def send_photo(chat, image, caption):
+    """Сначала даём Telegram ссылку; если не принял — скачиваем картинку и грузим файлом."""
+    r = tg("sendPhoto", {"chat_id": chat, "photo": image, "caption": caption, "parse_mode": "HTML"})
+    if r.ok:
+        return True
+    print("sendPhoto by URL failed:", r.text[:200], file=sys.stderr)
+    try:
+        img = requests.get(image, timeout=30, headers=UA)
+        img.raise_for_status()
+        if len(img.content) > 9_500_000:
+            return False
+        token = os.environ["BOT_TOKEN"]
+        r = requests.post(
+            f"https://api.telegram.org/bot{token}/sendPhoto",
+            data={"chat_id": chat, "caption": caption, "parse_mode": "HTML"},
+            files={"photo": ("cover.jpg", img.content)},
+            timeout=60,
+        )
+        if r.ok:
+            return True
+        print("sendPhoto upload failed:", r.text[:200], file=sys.stderr)
+    except Exception as e:
+        print("image download failed:", e, file=sys.stderr)
+    return False
+
+
 def send(text, image=None):
     chat = os.environ["CHANNEL_ID"]
-    if image and len(text) <= 1024:
-        r = tg("sendPhoto", {"chat_id": chat, "photo": image, "caption": text, "parse_mode": "HTML"})
-        if r.ok:
-            return
-        print("sendPhoto failed, sending text:", r.text[:200], file=sys.stderr)
+    if image:
+        if len(text) <= 1024:
+            if send_photo(chat, image, text):
+                return
+        else:
+            # подпись к фото максимум 1024 символа: заголовок под фото, текст следом
+            headline = text.split("\n\n", 1)[0]
+            rest = text.split("\n\n", 1)[1] if "\n\n" in text else ""
+            if send_photo(chat, image, headline):
+                text = rest or text
     r = tg("sendMessage", {
         "chat_id": chat, "text": text, "parse_mode": "HTML",
         "link_preview_options": {"is_disabled": True},
@@ -248,7 +292,8 @@ def main():
             break
         if norm(item["title"]) in used_titles:
             continue
-        article = fetch_article(item["link"]) if item["link"] else ""
+        article, og_image = fetch_article(item["link"]) if item["link"] else ("", None)
+        item["image"] = og_image or item.get("image")  # обложка статьи обычно крупнее превью из RSS
         ai = gemini(PROMPT.format(style=STYLE, article=article, **item))
         # помечаем как просмотренную в любом случае, чтобы не гонять её повторно
         state["posted"] += [item["link"], norm(item["title"])]
@@ -261,7 +306,7 @@ def main():
             print(post, "\n" + "-" * 40)
         else:
             send(post, item.get("image"))
-            print("Опубликовано:", item["title"])
+            print("Опубликовано:", item["title"], "| картинка:", item.get("image") or "нет")
         published += 1
         time.sleep(5)
 
