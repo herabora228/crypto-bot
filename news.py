@@ -40,11 +40,15 @@ MAX_AGE_HOURS = float(os.environ.get("MAX_AGE_HOURS", "12"))
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
 STYLE = os.environ.get(
     "CHANNEL_STYLE",
-    "живой, понятный новичкам, без воды, немного эмодзи, без кликбейта",
+    "сухо и по делу, только факты и цифры, без воды и без кликбейта",
 )
 
-# Слова-маркеры рекламы и мусора — такие новости пропускаем
-SKIP_WORDS = ("sponsored", "press release", "advertorial", "price prediction")
+# Слова-маркеры рекламы, мусора и обзорных дайджестов — такие новости пропускаем
+SKIP_WORDS = (
+    "sponsored", "press release", "advertorial", "price prediction",
+    "what happened in crypto today", "here's what happened", "weekly recap",
+    "week in review", "roundup", "newsletter", "podcast", "дайджест", "итоги недели",
+)
 
 
 # ---------- состояние ----------
@@ -114,6 +118,20 @@ def fetch_news():
     return items
 
 
+def fetch_article(url, limit=4000):
+    """Пытается достать текст статьи (абзацы <p>), чтобы у ИИ было больше конкретики."""
+    try:
+        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        r.raise_for_status()
+        paras = re.findall(r"<p[^>]*>(.*?)</p>", r.text, flags=re.S | re.I)
+        text = " ".join(clean_html(p) for p in paras)
+        text = re.sub(r"\s+", " ", text).strip()
+        return text[:limit] if len(text) > 200 else ""
+    except Exception as e:
+        print(f"article error {url}: {e}", file=sys.stderr)
+        return ""
+
+
 def norm(title):
     return re.sub(r"[^a-zа-я0-9]", "", title.lower())[:60]
 
@@ -123,21 +141,34 @@ def norm(title):
 PROMPT = """Ты редактор русскоязычного Telegram-канала о криптовалютах.
 Стиль канала: {style}.
 
-Вот новость из источника «{source}»:
+Материал:
 Заголовок: {title}
 Анонс: {summary}
+Текст статьи (может быть пустым): {article}
 
 Напиши пост на русском СВОИМИ словами (не переводи дословно, не копируй фразы).
-Используй только факты из заголовка и анонса — ничего не выдумывай: цифры, имена и даты
-бери только оттуда. Если фактов мало, пост просто будет короче.
+
+ПРАВИЛА:
+1. Пиши ТОЛЬКО что конкретно произошло: кто/что, какое событие, цифры, суммы, проценты,
+   даты, названия монет, компаний, бирж, стран. Каждое предложение — конкретный факт.
+2. Никакой воды и общих фраз. Запрещены формулировки вроде «мы собрали главные события»,
+   «в центре внимания», «эксперты обсуждают», «рынок следит», «важная новость для индустрии»,
+   «издание сообщает», «по данным источника».
+3. НЕ упоминай СМИ, сайт или источник, откуда взята новость.
+4. Исключение: если в материале есть прямое высказывание конкретного человека
+   (глава компании, регулятор, аналитик, политик), его можно процитировать:
+   «…», — заявил Имя Фамилия, должность.
+5. Используй только факты из материала, ничего не выдумывай и не добавляй от себя.
+6. Если в материале нет конкретного события и фактов (это обзор, дайджест, подборка,
+   мнение без новостей, реклама, не про крипту/блокчейн) — верни "relevant": false.
 
 Верни строго JSON:
 {{
-  "relevant": true/false,   // false, если это реклама, мусор или не про крипту/блокчейн
+  "relevant": true/false,
   "emoji": "одно эмодзи по теме",
-  "headline": "цепляющий заголовок до 80 символов",
-  "body": "2–4 коротких предложения: что произошло и почему это важно",
-  "takeaway": "одна фраза: что это значит для рынка или для обычного держателя"
+  "headline": "заголовок до 80 символов: суть события с главной цифрой или названием",
+  "body": "2–4 коротких предложения с конкретными фактами: что произошло, цифры, детали",
+  "takeaway": "одна фраза о практическом последствии события (только если оно прямо следует из фактов), иначе пустая строка"
 }}"""
 
 
@@ -151,7 +182,7 @@ def gemini(prompt):
                 headers={"x-goog-api-key": key},
                 json={
                     "contents": [{"parts": [{"text": prompt}]}],
-                    "generationConfig": {"responseMimeType": "application/json", "temperature": 0.7},
+                    "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4},
                 },
                 timeout=60,
             )
@@ -172,12 +203,10 @@ def gemini(prompt):
 
 def build_post(item, ai):
     e = html.escape
-    return (
-        f"{e(ai.get('emoji', '📰'))} <b>{e(ai['headline'])}</b>\n\n"
-        f"{e(ai['body'])}\n\n"
-        f"💡 {e(ai['takeaway'])}\n\n"
-        f"<a href=\"{e(item['link'], quote=True)}\">Источник: {e(item['source'])}</a>"
-    )
+    post = f"{e(ai.get('emoji', '📰'))} <b>{e(ai['headline'])}</b>\n\n{e(ai['body'])}"
+    if (ai.get("takeaway") or "").strip():
+        post += f"\n\n💡 {e(ai['takeaway'].strip())}"
+    return post
 
 
 # ---------- Telegram ----------
@@ -197,7 +226,7 @@ def send(text, image=None):
         print("sendPhoto failed, sending text:", r.text[:200], file=sys.stderr)
     r = tg("sendMessage", {
         "chat_id": chat, "text": text, "parse_mode": "HTML",
-        "link_preview_options": {"is_disabled": False},
+        "link_preview_options": {"is_disabled": True},
     })
     if not r.ok:
         raise SystemExit(f"Telegram error {r.status_code}: {r.text}")
@@ -219,7 +248,8 @@ def main():
             break
         if norm(item["title"]) in used_titles:
             continue
-        ai = gemini(PROMPT.format(style=STYLE, **item))
+        article = fetch_article(item["link"]) if item["link"] else ""
+        ai = gemini(PROMPT.format(style=STYLE, article=article, **item))
         # помечаем как просмотренную в любом случае, чтобы не гонять её повторно
         state["posted"] += [item["link"], norm(item["title"])]
         used_titles.add(norm(item["title"]))
