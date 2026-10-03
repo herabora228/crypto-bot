@@ -1,0 +1,21 @@
+name: Daily crypto post
+
+on:
+  schedule:
+    # Время в UTC. 07:00 UTC = 09:00 в Вене летом, 08:00 зимой.
+    - cron: "0 7 * * *"
+  workflow_dispatch: # кнопка ручного запуска для теста
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python bot.py
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
