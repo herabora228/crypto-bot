@@ -27,6 +27,8 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main # всегда свежая версия, а не та, что была на момент постановки в очередь
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
