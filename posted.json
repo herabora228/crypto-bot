@@ -151,10 +151,13 @@
   "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
   "newyorkagsecuresupto35millionandlifetimecryptobanfromcelsius",
   "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
-  "ethereuml2starknetjumps20aftersayingitwantstobecomeanl1"
+  "ethereuml2starknetjumps20aftersayingitwantstobecomeanl1",
+  "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+  "openaiandanthropicarequietlyrehearsingforthedayafteranaicata",
+  "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "thorchainexecaccusestetheroftemporarilyfreezingusdtvaults"
  ],
  "slots_done": [
-  "2026-10-03 20:30",
   "2026-10-03 22:00",
   "2026-10-04 09:00",
   "2026-10-04 10:00",
@@ -213,6 +216,7 @@
   "2026-10-09 14:30",
   "2026-10-09 16:00",
   "2026-10-09 17:30",
-  "2026-10-09 19:00"
+  "2026-10-09 19:00",
+  "2026-10-09 22:00"
  ]
 }
