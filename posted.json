@@ -179,10 +179,15 @@
   "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
   "thissamaltmanbackedlifeinsurerrunsentirelyonbitcoinandjustra",
   "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-  "cftcdrawsthelinebetweenpredictionmarketsandgamblinginnewrule"
+  "cftcdrawsthelinebetweenpredictionmarketsandgamblinginnewrule",
+  "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+  "oneyearafter1010flashcrashbitcoinandetherliquidityhaverebuil",
+  "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+  "tokenizedcommoditieslookbeyondgoldaslendingandoilopennewmark",
+  "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "justinsunsaystronspostquantumcryptographyhasgoneliveontestne"
  ],
  "slots_done": [
-  "2026-10-04 20:30",
   "2026-10-04 22:00",
   "2026-10-05 09:00",
   "2026-10-05 10:00",
@@ -241,6 +246,7 @@
   "2026-10-10 16:00",
   "2026-10-10 17:30",
   "2026-10-10 19:00",
-  "2026-10-10 20:30"
+  "2026-10-10 20:30",
+  "2026-10-10 22:00"
  ]
 }
