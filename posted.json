@@ -157,10 +157,11 @@
   "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "thorchainexecaccusestetheroftemporarilyfreezingusdtvaults",
   "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "samaltmanbackedbitcoinlifeinsurermeanwhileraisesmorefunds"
+  "samaltmanbackedbitcoinlifeinsurermeanwhileraisesmorefunds",
+  "https://forklog.com/news/ledger-nachala-rassledovanie-vozmozhnoj-komprometatsii-koshelkov-prodannyh-resellerom-cryptobilis",
+  "ledgerначаларасследованиевозможнойкомпрометациикошельковпрод"
  ],
  "slots_done": [
-  "2026-10-04 10:00",
   "2026-10-04 11:30",
   "2026-10-04 13:00",
   "2026-10-04 14:30",
@@ -219,6 +220,7 @@
   "2026-10-09 19:00",
   "2026-10-09 22:00",
   "2026-10-10 09:00",
-  "2026-10-10 10:00"
+  "2026-10-10 10:00",
+  "2026-10-10 11:30"
  ]
 }
