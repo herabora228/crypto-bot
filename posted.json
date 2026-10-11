@@ -193,10 +193,13 @@
   "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "coldcardsaysitsinvestigatinghowphishinglinkappearedonitsxacc",
   "https://forklog.com/v-x-akkaunte-coldcard-obnaruzhili-fishingovuyu-ssylku",
-  "вxаккаунтеcoldcardобнаружилифишинговуюссылку"
+  "вxаккаунтеcoldcardобнаружилифишинговуюссылку",
+  "https://forklog.com/news/ai/anthropic-lishila-claude-dostupa-k-internetu-vo-vnutrennih-testah",
+  "anthropicлишилаclaudeдоступакинтернетувовнутреннихтестах",
+  "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+  "howzcashplanstohideyourkeysfromaiandquantumattacks"
  ],
  "slots_done": [
-  "2026-10-05 14:30",
   "2026-10-05 16:00",
   "2026-10-05 17:30",
   "2026-10-05 19:00",
@@ -255,6 +258,7 @@
   "2026-10-11 10:00",
   "2026-10-11 11:30",
   "2026-10-11 13:00",
-  "2026-10-11 14:30"
+  "2026-10-11 14:30",
+  "2026-10-11 16:00"
  ]
 }
