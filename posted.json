@@ -187,10 +187,11 @@
   "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "justinsunsaystronspostquantumcryptographyhasgoneliveontestne",
   "https://forklog.com/byvshij-top-menedzher-ftx-raskritikovala-serial-netflix-o-krahe-birzhi",
-  "бывшийтопменеджерftxраскритиковаласериалnetflixокрахебиржи"
+  "бывшийтопменеджерftxраскритиковаласериалnetflixокрахебиржи",
+  "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "ledgerconfirmsunauthorizedhardwareimplantlossesmayexceed86m"
  ],
  "slots_done": [
-  "2026-10-05 10:00",
   "2026-10-05 11:30",
   "2026-10-05 13:00",
   "2026-10-05 14:30",
@@ -249,6 +250,7 @@
   "2026-10-10 20:30",
   "2026-10-10 22:00",
   "2026-10-11 09:00",
-  "2026-10-11 10:00"
+  "2026-10-11 10:00",
+  "2026-10-11 11:30"
  ]
 }
