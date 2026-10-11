@@ -197,10 +197,15 @@
   "https://forklog.com/news/ai/anthropic-lishila-claude-dostupa-k-internetu-vo-vnutrennih-testah",
   "anthropicлишилаclaudeдоступакинтернетувовнутреннихтестах",
   "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
-  "howzcashplanstohideyourkeysfromaiandquantumattacks"
+  "howzcashplanstohideyourkeysfromaiandquantumattacks",
+  "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+  "imffindsdemandfortokenizedstockssaysthemarketisstillvolatile",
+  "https://forklog.com/news/ai/microsoft-predstavila-ii-model-na-baze-qwen",
+  "microsoftпредставилаиимодельнабазеqwen",
+  "https://forklog.com/news/cftc-provela-granitsu-mezhdu-rynkami-predskazanij-i-azartnymi-igrami",
+  "cftcпровелаграницумеждурынкамипредсказанийиазартнымииграми"
  ],
  "slots_done": [
-  "2026-10-05 16:00",
   "2026-10-05 17:30",
   "2026-10-05 19:00",
   "2026-10-05 20:30",
@@ -259,6 +264,7 @@
   "2026-10-11 11:30",
   "2026-10-11 13:00",
   "2026-10-11 14:30",
-  "2026-10-11 16:00"
+  "2026-10-11 16:00",
+  "2026-10-11 17:30"
  ]
 }
