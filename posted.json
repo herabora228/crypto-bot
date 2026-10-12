@@ -211,10 +211,11 @@
   "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
   "everyonewantsscotustotakeuppredictionmarketsstateofcrypto",
   "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "saylorteasesstrategybitcoinbuyingafterendingseptemberwithstr"
+  "saylorteasesstrategybitcoinbuyingafterendingseptemberwithstr",
+  "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+  "ledgersaysunauthorizedimplantfoundinatleastonedevicesoldbycr"
  ],
  "slots_done": [
-  "2026-10-06 09:00",
   "2026-10-06 10:00",
   "2026-10-06 11:30",
   "2026-10-06 13:00",
@@ -273,6 +274,7 @@
   "2026-10-11 19:00",
   "2026-10-11 20:30",
   "2026-10-11 22:00",
-  "2026-10-12 09:00"
+  "2026-10-12 09:00",
+  "2026-10-12 10:00"
  ]
 }
