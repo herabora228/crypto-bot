@@ -289,10 +289,11 @@
   "https://forklog.com/exclusive/zapis-bez-funktsii-chto-ostaetsya-posle-smerti-blokchejnov",
   "записьбезфункциичтоостаетсяпослесмертиблокчейнов",
   "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
-  "ledgerannouncesatomtouchscreenandroiddevice"
+  "ledgerannouncesatomtouchscreenandroiddevice",
+  "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "bitcoinslipsunder80kafterusppigainsmostinfouryears"
  ],
  "slots_done": [
-  "2026-10-09 14:30",
   "2026-10-09 16:00",
   "2026-10-09 17:30",
   "2026-10-09 19:00",
@@ -351,6 +352,7 @@
   "2026-10-15 11:30",
   "2026-10-15 13:00",
   "2026-10-15 14:30",
-  "2026-10-15 16:00"
+  "2026-10-15 16:00",
+  "2026-10-15 17:30"
  ]
 }
