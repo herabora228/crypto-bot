@@ -287,10 +287,11 @@
   "https://forklog.com/news/ai/asml-oprovergla-opaseniya-o-zatuhanii-ii-buma-klienty-broniruyut-oborudovanie-na-2030-god",
   "asmlопроверглаопасенияозатуханиииибумаклиентыбронируютоборуд",
   "https://forklog.com/exclusive/zapis-bez-funktsii-chto-ostaetsya-posle-smerti-blokchejnov",
-  "записьбезфункциичтоостаетсяпослесмертиблокчейнов"
+  "записьбезфункциичтоостаетсяпослесмертиблокчейнов",
+  "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
+  "ledgerannouncesatomtouchscreenandroiddevice"
  ],
  "slots_done": [
-  "2026-10-09 13:00",
   "2026-10-09 14:30",
   "2026-10-09 16:00",
   "2026-10-09 17:30",
@@ -349,6 +350,7 @@
   "2026-10-15 10:00",
   "2026-10-15 11:30",
   "2026-10-15 13:00",
-  "2026-10-15 14:30"
+  "2026-10-15 14:30",
+  "2026-10-15 16:00"
  ]
 }
