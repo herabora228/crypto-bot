@@ -343,10 +343,15 @@
   "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
   "cryptofirmslaunchquantumallianceas6millionbitcoinsitexposed",
   "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
-  "cryptosuperpacfairshakepoursmillionsmoreintodefeatingsherrod"
+  "cryptosuperpacfairshakepoursmillionsmoreintodefeatingsherrod",
+  "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+  "goldmanwellsfargomorganstanleyseetokenizationasagrowthplayno",
+  "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+  "polygonseescoinmeacquisitionasentrytopaymentssectordominated",
+  "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "solanashowsresiliencebutsomeareasneedcontinuedobservationfid"
  ],
  "slots_done": [
-  "2026-10-11 20:30",
   "2026-10-11 22:00",
   "2026-10-12 09:00",
   "2026-10-12 10:00",
@@ -405,6 +410,7 @@
   "2026-10-17 16:00",
   "2026-10-17 17:30",
   "2026-10-17 19:00",
-  "2026-10-17 20:30"
+  "2026-10-17 20:30",
+  "2026-10-17 22:00"
  ]
 }
