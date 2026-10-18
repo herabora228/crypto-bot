@@ -375,10 +375,11 @@
   "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
   "mapquestnowshowsdriverswhereflockcamerasarewatching",
   "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
-  "latviaeyescryptotaxpaymentsin2027asparliamentoverhaulscrypto"
+  "latviaeyescryptotaxpaymentsin2027asparliamentoverhaulscrypto",
+  "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+  "stablecoinsupplystallsbutpaymentsjump45asvisamastercardandst"
  ],
  "slots_done": [
-  "2026-10-12 19:00",
   "2026-10-12 20:30",
   "2026-10-12 22:00",
   "2026-10-13 09:00",
@@ -437,6 +438,7 @@
   "2026-10-18 14:30",
   "2026-10-18 16:00",
   "2026-10-18 17:30",
-  "2026-10-18 19:00"
+  "2026-10-18 19:00",
+  "2026-10-18 20:30"
  ]
 }
