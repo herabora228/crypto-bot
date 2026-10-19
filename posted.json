@@ -387,10 +387,13 @@
   "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
   "cmesbitcoincashuniswapfuturesglobalpmiscryptoweekahead",
   "https://forklog.com/lookonchain-mara-perevela-na-birzhi-1000-btc",
-  "lookonchainmaraперевеланабиржи1000btc"
+  "lookonchainmaraперевеланабиржи1000btc",
+  "https://forklog.com/news/uchenye-smodelirovali-fotonnyj-kvantovyj-kompyuter-na-obychnyh-protsessorah",
+  "ученыесмоделировалифотонныйквантовыйкомпьютернаобычныхпроцес",
+  "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
+  "uktriojailedoverhomeinvasioninfailedcryptotheftattempt"
  ],
  "slots_done": [
-  "2026-10-13 11:30",
   "2026-10-13 13:00",
   "2026-10-13 14:30",
   "2026-10-13 16:00",
@@ -449,6 +452,7 @@
   "2026-10-18 22:00",
   "2026-10-19 09:00",
   "2026-10-19 10:00",
-  "2026-10-19 11:30"
+  "2026-10-19 11:30",
+  "2026-10-19 13:00"
  ]
 }
