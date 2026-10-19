@@ -391,10 +391,13 @@
   "https://forklog.com/news/uchenye-smodelirovali-fotonnyj-kvantovyj-kompyuter-na-obychnyh-protsessorah",
   "ученыесмоделировалифотонныйквантовыйкомпьютернаобычныхпроцес",
   "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
-  "uktriojailedoverhomeinvasioninfailedcryptotheftattempt"
+  "uktriojailedoverhomeinvasioninfailedcryptotheftattempt",
+  "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
+  "morningminutecryptoreboundsasblackmondaylooms",
+  "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+  "cardanofoundercharleshoskinsonisbuildinganewprogramminglangu"
  ],
  "slots_done": [
-  "2026-10-13 13:00",
   "2026-10-13 14:30",
   "2026-10-13 16:00",
   "2026-10-13 17:30",
@@ -453,6 +456,7 @@
   "2026-10-19 09:00",
   "2026-10-19 10:00",
   "2026-10-19 11:30",
-  "2026-10-19 13:00"
+  "2026-10-19 13:00",
+  "2026-10-19 14:30"
  ]
 }
