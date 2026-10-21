@@ -433,10 +433,11 @@
   "https://forklog.com/news/qubic-vozobnovila-rabotu-blokchejna-posle-vzloma",
   "qubicвозобновилаработублокчейнапослевзлома",
   "https://forklog.com/news/toshiba-predstavila-platformu-dlya-zashhity-setej-ot-kvantovyh-ugroz",
-  "toshibaпредставилаплатформудлязащитысетейотквантовыхугроз"
+  "toshibaпредставилаплатформудлязащитысетейотквантовыхугроз",
+  "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "bitcointopbuyershaltbtcpriceupsidewith877knowkeyglassnode"
  ],
  "slots_done": [
-  "2026-10-15 13:00",
   "2026-10-15 14:30",
   "2026-10-15 16:00",
   "2026-10-15 17:30",
@@ -495,6 +496,7 @@
   "2026-10-20 22:00",
   "2026-10-21 09:00",
   "2026-10-21 10:00",
-  "2026-10-21 11:30"
+  "2026-10-21 11:30",
+  "2026-10-21 13:00"
  ]
 }
