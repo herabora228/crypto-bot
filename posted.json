@@ -437,10 +437,11 @@
   "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "bitcointopbuyershaltbtcpriceupsidewith877knowkeyglassnode",
   "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-  "morningminutebitcointopsjpmorganstenyearforecastforallassets"
+  "morningminutebitcointopsjpmorganstenyearforecastforallassets",
+  "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "solanasalpenglowlaunchesonmainnettargets99fasterfinality"
  ],
  "slots_done": [
-  "2026-10-15 16:00",
   "2026-10-15 17:30",
   "2026-10-15 19:00",
   "2026-10-15 20:30",
@@ -499,6 +500,7 @@
   "2026-10-21 10:00",
   "2026-10-21 11:30",
   "2026-10-21 13:00",
-  "2026-10-21 14:30"
+  "2026-10-21 14:30",
+  "2026-10-21 16:00"
  ]
 }
