@@ -439,10 +439,17 @@
   "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
   "morningminutebitcointopsjpmorganstenyearforecastforallassets",
   "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "solanasalpenglowlaunchesonmainnettargets99fasterfinality"
+  "solanasalpenglowlaunchesonmainnettargets99fasterfinality",
+  "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+  "bybitwilllookforbigbrokerpartnershipstotakeonrobinhoodintheu",
+  "https://forklog.com/news/frantsiya-prodvinulas-v-sozdanii-kvantovogo-kompyutera-na-1000-logicheskih-kubitov",
+  "францияпродвинуласьвсозданииквантовогокомпьютерана1000логиче",
+  "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+  "cryptolongshortwhyrealworldassetsneedfixedrateloansonchain",
+  "https://forklog.com/standard-chartered-dogovorilsya-o-pokupke-kriptokastodiana-zodia-custody",
+  "standardcharteredдоговорилсяопокупкекриптокастодианаzodiacus"
  ],
  "slots_done": [
-  "2026-10-15 17:30",
   "2026-10-15 19:00",
   "2026-10-15 20:30",
   "2026-10-15 22:00",
@@ -501,6 +508,7 @@
   "2026-10-21 11:30",
   "2026-10-21 13:00",
   "2026-10-21 14:30",
-  "2026-10-21 16:00"
+  "2026-10-21 16:00",
+  "2026-10-21 17:30"
  ]
 }
