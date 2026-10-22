@@ -455,10 +455,11 @@
   "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
   "whofoundthephpbugthatmadegovernmentsunplugtheirwebsiteschatg",
   "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "cardanofoundationurgeseuagainstexpandingmicarulestodefiandst"
+  "cardanofoundationurgeseuagainstexpandingmicarulestodefiandst",
+  "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "bitcoinetfsbaganother528mtaking3dayhaulpast1b"
  ],
  "slots_done": [
-  "2026-10-16 10:00",
   "2026-10-16 11:30",
   "2026-10-16 13:00",
   "2026-10-16 14:30",
@@ -517,6 +518,7 @@
   "2026-10-21 19:00",
   "2026-10-21 20:30",
   "2026-10-21 22:00",
-  "2026-10-22 09:00"
+  "2026-10-22 09:00",
+  "2026-10-22 10:00"
  ]
 }
