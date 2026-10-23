@@ -481,10 +481,11 @@
   "https://forklog.com/pentagon-zapretil-voennym-ispolzovat-insajderskuyu-informatsiyu-dlya-stavok",
   "пентагонзапретилсотрудникамставитьнаpolymarketиkalshiпонепуб",
   "https://forklog.com/news/heatbit-predstavila-nagrevatel-vody-s-funktsiej-majninga-bitkoina",
-  "heatbitпредставиланагревательводысфункциеймайнингабиткоина"
+  "heatbitпредставиланагревательводысфункциеймайнингабиткоина",
+  "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+  "ethereumdelaysglamsterdamtestnetforkovergassecurityflaws"
  ],
  "slots_done": [
-  "2026-10-17 14:30",
   "2026-10-17 16:00",
   "2026-10-17 17:30",
   "2026-10-17 19:00",
@@ -543,6 +544,7 @@
   "2026-10-23 09:00",
   "2026-10-23 10:00",
   "2026-10-23 11:30",
-  "2026-10-23 13:00"
+  "2026-10-23 13:00",
+  "2026-10-23 14:30"
  ]
 }
