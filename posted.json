@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/assotsiatsiya-amerikanskih-bankov-podala-v-sud-iz-za-litsenzij-dlya-kriptokompanij",
-  "ассоциацияамериканскихбанковподалавсудиззалицензийдлякрипток",
   "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "nearintentsrecoversentirestolen38mafterultimatumtoexploiter",
   "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/ai/moonshot-ai-vypustila-kimi-k3-1-pro-i-ogranichila-ee-kibervozmozhnosti",
   "moonshotaiвыпустилаkimik31proиограничилаеекибервозможности",
   "https://forklog.com/tether-zamorozila-2-2-mln-usdt-svyazannyh-s-intsidentom-coindcx",
-  "tetherзаморозила22млнusdtсвязанныхсинцидентомcoindcx"
+  "tetherзаморозила22млнusdtсвязанныхсинцидентомcoindcx",
+  "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+  "usclarityactfailuregivesasiaandmiddleeastacompetitiveedgesay"
  ],
  "slots_done": [
-  "2026-10-18 14:30",
   "2026-10-18 16:00",
   "2026-10-18 17:30",
   "2026-10-18 19:00",
@@ -561,6 +560,7 @@
   "2026-10-24 09:00",
   "2026-10-24 10:00",
   "2026-10-24 11:30",
-  "2026-10-24 13:00"
+  "2026-10-24 13:00",
+  "2026-10-24 14:30"
  ]
 }
