@@ -1,11 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "russiasfinanceministrypayswagesindigitalrublesforfirsttime",
-  "https://forklog.com/news/keti-vud-prizvala-investorov-sledit-za-ii-agentami",
-  "кэтивудпризвалаинвесторовследитьзаииагентами",
-  "https://forklog.com/news/ai/gubernator-kalifornii-podpisal-zakony-protiv-uvolnenij-i-slezhki-s-pomoshhyu-ii",
-  "губернаторкалифорнииподписалзаконыпротивувольненийислежкиспо",
   "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "elsalvadorreceives138millionfromimfafterbitcoinwaiversgrante",
   "https://forklog.com/haker-vyvel-iz-hranilishha-v-seti-base-aktivy-na-6-mln",
@@ -499,10 +493,15 @@
   "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
   "blocksnewvoiceaisoundseerilyhumansparkingaweandscamfears",
   "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
-  "gamepublishershavepushedtocutdiscssince2007infinitywardveter"
+  "gamepublishershavepushedtocutdiscssince2007infinitywardveter",
+  "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+  "googlequietlyupdatesprivacypolicytoletgmailandphotosdatafeed",
+  "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+  "whymcdonaldsmicrosoftandgooglesayingnototokenizedstocksisnta",
+  "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+  "argentinadropscriminalprobeintopresidentmileiovercrashedmeme"
  ],
  "slots_done": [
-  "2026-10-18 20:30",
   "2026-10-18 22:00",
   "2026-10-19 09:00",
   "2026-10-19 10:00",
@@ -561,6 +560,7 @@
   "2026-10-24 14:30",
   "2026-10-24 16:00",
   "2026-10-24 17:30",
-  "2026-10-24 19:00"
+  "2026-10-24 19:00",
+  "2026-10-24 20:30"
  ]
 }
