@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "elsalvadorreceives138millionfromimfafterbitcoinwaiversgrante",
-  "https://forklog.com/haker-vyvel-iz-hranilishha-v-seti-base-aktivy-na-6-mln",
-  "хакервывелизхранилищавсетиbaseактивына6млн",
   "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "trumptapsintelchiefjayclaytontoleadnewsuperintelligenceforce",
   "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
@@ -499,10 +495,13 @@
   "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
   "whymcdonaldsmicrosoftandgooglesayingnototokenizedstocksisnta",
   "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-  "argentinadropscriminalprobeintopresidentmileiovercrashedmeme"
+  "argentinadropscriminalprobeintopresidentmileiovercrashedmeme",
+  "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+  "wellsfargociscomarvellamonglatestfirmsobjectingtookxicestoke",
+  "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+  "bitcoinswealthyholdersturningtoloansandyieldasinvestmenthabi"
  ],
  "slots_done": [
-  "2026-10-18 22:00",
   "2026-10-19 09:00",
   "2026-10-19 10:00",
   "2026-10-19 11:30",
@@ -561,6 +560,7 @@
   "2026-10-24 16:00",
   "2026-10-24 17:30",
   "2026-10-24 19:00",
-  "2026-10-24 20:30"
+  "2026-10-24 20:30",
+  "2026-10-24 22:00"
  ]
 }
