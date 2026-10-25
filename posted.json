@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-  "cryptopouredyearsintonewproductsthenextchallengeiskeepinguse",
   "https://forklog.com/hyperliquid-napravil-14-58-mln-usdc-na-vykup-hype",
   "hyperliquidнаправил1458млнusdcнавыкупhype",
   "https://forklog.com/sotrudniki-minfina-vpervye-poluchili-zarplatu-v-tsifrovyh-rublyah",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
   "ukbanksface10000complaintsin3monthsovercryptorestrictions",
   "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
-  "bitcoinetfssnaptwoweeklosingstreakdespitelateweekslide"
+  "bitcoinetfssnaptwoweeklosingstreakdespitelateweekslide",
+  "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
+  "wellsfargociscointuitamong6morecompaniesobjectingtotokenized"
  ],
  "slots_done": [
-  "2026-10-19 17:30",
   "2026-10-19 19:00",
   "2026-10-19 20:30",
   "2026-10-19 22:00",
@@ -561,6 +560,7 @@
   "2026-10-25 11:30",
   "2026-10-25 13:00",
   "2026-10-25 14:30",
-  "2026-10-25 16:00"
+  "2026-10-25 16:00",
+  "2026-10-25 17:30"
  ]
 }
