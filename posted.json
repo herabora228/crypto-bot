@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-  "okxdrawsinvestmentfromstanchartcirclerippleasitpushesbeyondc",
   "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
   "cryptoisexpandingtheboundariesofwhatcanbepriced",
   "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
@@ -499,10 +497,11 @@
   "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
   "bitcoinwalletfixescriticalflawthatredirectedfundstoattackers",
   "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
-  "whypredictionmarketsgotthebrazilianelectionsowrong"
+  "whypredictionmarketsgotthebrazilianelectionsowrong",
+  "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+  "nbaembracesthecftconpredictionmarketsasthenflfightsitincourt"
  ],
  "slots_done": [
-  "2026-10-20 22:00",
   "2026-10-21 09:00",
   "2026-10-21 10:00",
   "2026-10-21 11:30",
@@ -561,6 +560,7 @@
   "2026-10-26 16:00",
   "2026-10-26 17:30",
   "2026-10-26 19:00",
-  "2026-10-26 20:30"
+  "2026-10-26 20:30",
+  "2026-10-26 22:00"
  ]
 }
