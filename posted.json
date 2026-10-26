@@ -1,15 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "chinap2pstablecoinwalletsgrew43xdespitecryptorestrictionscha",
-  "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "bitcoinpricefailstobreakhigherafterbestweeklycloseineightmon",
-  "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
-  "cftcunveilsplantobringcryptoexchangesunderfederaloversight",
-  "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
-  "morethan60usstocksincludingnvidiaandteslaareheadedonchainher",
-  "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
-  "cryptoscampaignarmfairshakesetslistsofushousefavoritesitllsp",
   "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "advocacygrouppushesbackonbankslawsuitagainstoccovercharters",
   "https://forklog.com/solana-zapustila-sistemu-raschetov-dvp-pri-uchastii-j-p-morgan",
@@ -499,10 +489,19 @@
   "https://forklog.com/news/ai/vychislitelnye-ii-moshhnosti-kitaya-udvoyatsya-k-2027-godu-za-schet-amerikanskih-chipov",
   "вычислительныеиимощностикитаяудвоятсяк2027годузасчетамерикан",
   "https://forklog.com/news/bnb-chain-raskryla-detali-novoj-l1-seti",
-  "bnbchainраскрыладеталиновойl1сети"
+  "bnbchainраскрыладеталиновойl1сети",
+  "https://forklog.com/news/ai/mask-predrek-krah-200-ii-oblakam-na-fone-defitsita-moshhnostej-amazon",
+  "маскпредреккрах200ииоблакамнафонедефицитамощностейamazon",
+  "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+  "fedecbandbojinterestratedecisionscoinbaseearningscryptoweeka",
+  "https://forklog.com/news/obzor-rynka-neft-oborvala-podem-riskovyh-aktivov",
+  "обзоррынканефтьоборвалаподъемрисковыхактивов",
+  "https://forklog.com/news/ai/pravoobladateli-pesen-elvisa-presli-potrebovali-ot-anthropic-do-41-1-mln",
+  "правообладателипесенэлвисапреслипотребовалиотanthropicдо411м",
+  "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "bitcoinetfsbreak2weekoutflowstreakwith301mcomeback"
  ],
  "slots_done": [
-  "2026-10-20 11:30",
   "2026-10-20 13:00",
   "2026-10-20 14:30",
   "2026-10-20 16:00",
@@ -561,6 +560,7 @@
   "2026-10-25 20:30",
   "2026-10-25 22:00",
   "2026-10-26 09:00",
-  "2026-10-26 10:00"
+  "2026-10-26 10:00",
+  "2026-10-26 11:30"
  ]
 }
