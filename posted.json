@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
-  "livenewsriskassetsunderpressureasbondselloffandoilrallyinten",
   "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
   "greeceplans10cryptocapitalgainstaxdownfrom15floatedinjune",
   "https://forklog.com/news/v-starknet-dopustili-perehod-v-l1-iz-za-kvantovoj-ugrozy",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
   "bitcoinreboundsabove81000asasianchiprallyspillsintocryptopep",
   "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "dtccunitlaunchestokenizationservices"
+  "dtccunitlaunchestokenizationservices",
+  "https://forklog.com/razrabotchiki-xrp-ledger-predlozhili-koshelki-bez-xrp-dlya-stejblkoinov",
+  "разработчикиxrpledgerпредложиликошелькибезxrpдлястейблкоинов"
  ],
  "slots_done": [
-  "2026-10-22 16:00",
   "2026-10-22 17:30",
   "2026-10-22 19:00",
   "2026-10-22 20:30",
@@ -561,6 +560,7 @@
   "2026-10-28 10:00",
   "2026-10-28 11:30",
   "2026-10-28 13:00",
-  "2026-10-28 14:30"
+  "2026-10-28 14:30",
+  "2026-10-28 16:00"
  ]
 }
