@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-  "greecepreparestolevy10capitalgainstaxoncryptocurrency",
   "https://decrypt.co/380387/former-playstation-exec-slams-sonys-move-to-kill-discs-what-are-you-buying",
   "formerplaystationexecslamssonysmovetokilldiscswhatareyoubuyi",
   "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "bitcoinetfinflowsclimbto176masbtcreboundsabove80k",
   "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
-  "coinbasecustomerdatahitinanalyticsvendorbreachfundsnotimpact"
+  "coinbasecustomerdatahitinanalyticsvendorbreachfundsnotimpact",
+  "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+  "bitcoinreboundsabove81000asasianchiprallyspillsintocryptopep"
  ],
  "slots_done": [
-  "2026-10-22 13:00",
   "2026-10-22 14:30",
   "2026-10-22 16:00",
   "2026-10-22 17:30",
@@ -561,6 +560,7 @@
   "2026-10-27 22:00",
   "2026-10-28 09:00",
   "2026-10-28 10:00",
-  "2026-10-28 11:30"
+  "2026-10-28 11:30",
+  "2026-10-28 13:00"
  ]
 }
