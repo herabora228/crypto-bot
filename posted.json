@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-  "cryptoforadvisorsdigitalassetsoutranstocksandgoldinq3",
-  "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-  "securitizebringsnvidiaappleandamazononchainwithtokenizedstoc",
   "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
   "usgovernmentmoves1billioninbitcoinseizedfrombitfinexhacker",
   "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
@@ -499,10 +495,13 @@
   "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
   "aicanquietlyinfluenceexpertsdecisionsanthropicstudyfinds",
   "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-  "openaiplanstobuygooglesaichipsasitlooksbeyondnvidiareport"
+  "openaiplanstobuygooglesaichipsasitlooksbeyondnvidiareport",
+  "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+  "aisecuritystartupupwindraises400mat38bvaluation",
+  "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
+  "moreamericanshavetriedcryptobutfewarestickingwithitsurvey"
  ],
  "slots_done": [
-  "2026-10-22 22:00",
   "2026-10-23 09:00",
   "2026-10-23 10:00",
   "2026-10-23 11:30",
@@ -561,6 +560,7 @@
   "2026-10-28 16:00",
   "2026-10-28 17:30",
   "2026-10-28 19:00",
-  "2026-10-28 20:30"
+  "2026-10-28 20:30",
+  "2026-10-28 22:00"
  ]
 }
