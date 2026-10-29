@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
-  "ethereuml2starknetjumps20aftersayingitwantstobecomeanl1",
   "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
   "openaiandanthropicarequietlyrehearsingforthedayafteranaicata",
   "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
   "cryptospends176milliononmidtermsbutonly13ofvotersseeitasapri",
   "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
-  "polymarketsuspendstradingafterthirdpartybreachleadstouserlos"
+  "polymarketsuspendstradingafterthirdpartybreachleadstouserlos",
+  "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
+  "coinbaseswingsto719millionq3profitoncryptogains"
  ],
  "slots_done": [
-  "2026-10-23 22:00",
   "2026-10-24 09:00",
   "2026-10-24 10:00",
   "2026-10-24 11:30",
@@ -561,6 +560,7 @@
   "2026-10-29 16:00",
   "2026-10-29 17:30",
   "2026-10-29 19:00",
-  "2026-10-29 20:30"
+  "2026-10-29 20:30",
+  "2026-10-29 22:00"
  ]
 }
