@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/mnenie-dlya-bitkoina-rynok-obligatsij-ssha-okazalsya-vazhnee-frs",
-  "мнениедлябиткоинарынокоблигацийсшаоказалсяважнеефрс",
   "https://forklog.com/btq-zajmetsya-postkvantovoj-zashhitoj-infrastruktury-moonpay-korea",
   "btqзайметсяпостквантовойзащитойинфраструктурыmoonpaykorea",
   "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
@@ -499,10 +497,11 @@
   "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
   "polygonextendsitsstablecoinpaymentsinfrastructuretosolana",
   "https://forklog.com/tether-zablokirovala-adresa-tron-s-27-mln-v-usdt",
-  "tetherзаблокировалаадресаtronс27млнвusdt"
+  "tetherзаблокировалаадресаtronс27млнвusdt",
+  "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
+  "cryptoexchangehtxexitstheukaftersettlingwiththefca"
  ],
  "slots_done": [
-  "2026-10-23 17:30",
   "2026-10-23 19:00",
   "2026-10-23 20:30",
   "2026-10-23 22:00",
@@ -561,6 +560,7 @@
   "2026-10-29 11:30",
   "2026-10-29 13:00",
   "2026-10-29 14:30",
-  "2026-10-29 16:00"
+  "2026-10-29 16:00",
+  "2026-10-29 17:30"
  ]
 }
