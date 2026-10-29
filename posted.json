@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-  "bitcoinsteadiesnear82500aftertrumprulesoutiranstrikebeforemi",
   "https://forklog.com/news/mnenie-dlya-bitkoina-rynok-obligatsij-ssha-okazalsya-vazhnee-frs",
   "мнениедлябиткоинарынокоблигацийсшаоказалсяважнеефрс",
   "https://forklog.com/btq-zajmetsya-postkvantovoj-zashhitoj-infrastruktury-moonpay-korea",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/solflare-kompensiruet-propushhennye-nagrady-po-stejkingu-160-mln-v-sol",
   "solflareкомпенсируетпропущенныенаградыпостейкингу160млнвsol",
   "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
-  "polygonextendsitsstablecoinpaymentsinfrastructuretosolana"
+  "polygonextendsitsstablecoinpaymentsinfrastructuretosolana",
+  "https://forklog.com/tether-zablokirovala-adresa-tron-s-27-mln-v-usdt",
+  "tetherзаблокировалаадресаtronс27млнвusdt"
  ],
  "slots_done": [
-  "2026-10-23 16:00",
   "2026-10-23 17:30",
   "2026-10-23 19:00",
   "2026-10-23 20:30",
@@ -561,6 +560,7 @@
   "2026-10-29 10:00",
   "2026-10-29 11:30",
   "2026-10-29 13:00",
-  "2026-10-29 14:30"
+  "2026-10-29 14:30",
+  "2026-10-29 16:00"
  ]
 }
