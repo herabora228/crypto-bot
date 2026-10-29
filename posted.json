@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "securitizestockjumpsover10afterlaunchingtokenizedusequitieso",
   "https://forklog.com/news/jpmorgan-otsenil-pritok-v-tsifrovye-aktivy-v-50-mlrd",
   "jpmorganоценилпритоквцифровыеактивыв50млрд",
   "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/ai/microsoft-raskryla-10-mlrd-kvartalnoj-vyruchki-ot-openai",
   "microsoftраскрыла10млрдквартальнойвыручкиотopenai",
   "https://forklog.com/news/wagyu-podtverdila-utechku-dannyh-o-monero-svopah",
-  "wagyuподтвердилаутечкуданныхоmoneroсвопах"
+  "wagyuподтвердилаутечкуданныхоmoneroсвопах",
+  "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+  "thaisupremecourtrulesbitcoinispropertyafterthiefchallengesco"
  ],
  "slots_done": [
-  "2026-10-23 11:30",
   "2026-10-23 13:00",
   "2026-10-23 14:30",
   "2026-10-23 16:00",
@@ -561,6 +560,7 @@
   "2026-10-28 20:30",
   "2026-10-28 22:00",
   "2026-10-29 09:00",
-  "2026-10-29 10:00"
+  "2026-10-29 10:00",
+  "2026-10-29 11:30"
  ]
 }
