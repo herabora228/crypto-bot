@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/jpmorgan-otsenil-pritok-v-tsifrovye-aktivy-v-50-mlrd",
-  "jpmorganоценилпритоквцифровыеактивыв50млрд",
   "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
   "darkwebdrugmarketoperatorsentencedto40yearsforfeits101millio",
   "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/wagyu-podtverdila-utechku-dannyh-o-monero-svopah",
   "wagyuподтвердилаутечкуданныхоmoneroсвопах",
   "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-  "thaisupremecourtrulesbitcoinispropertyafterthiefchallengesco"
+  "thaisupremecourtrulesbitcoinispropertyafterthiefchallengesco",
+  "https://forklog.com/news/solflare-kompensiruet-propushhennye-nagrady-po-stejkingu-160-mln-v-sol",
+  "solflareкомпенсируетпропущенныенаградыпостейкингу160млнвsol"
  ],
  "slots_done": [
-  "2026-10-23 13:00",
   "2026-10-23 14:30",
   "2026-10-23 16:00",
   "2026-10-23 17:30",
@@ -561,6 +560,7 @@
   "2026-10-28 22:00",
   "2026-10-29 09:00",
   "2026-10-29 10:00",
-  "2026-10-29 11:30"
+  "2026-10-29 11:30",
+  "2026-10-29 13:00"
  ]
 }
