@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/ledger-nachala-rassledovanie-vozmozhnoj-komprometatsii-koshelkov-prodannyh-resellerom-cryptobilis",
-  "ledgerначаларасследованиевозможнойкомпрометациикошельковпрод",
   "https://forklog.com/news/kripta-obhodit-kitaj-s-chernogo-hoda",
   "криптаобходиткитайсчерногохода",
   "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/trezor-predupredila-o-vozmozhnom-shpionskom-implante-v-safe-5",
   "trezorпредупредилаовозможномшпионскомимплантевsafe5",
   "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
-  "trezorwarnscryptobilisbuyersafterreportofhardwareimplantinsa"
+  "trezorwarnscryptobilisbuyersafterreportofhardwareimplantinsa",
+  "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "liveupdatesbinancesays634bsetasidetocoverhacklosses"
  ],
  "slots_done": [
-  "2026-10-24 13:00",
   "2026-10-24 14:30",
   "2026-10-24 16:00",
   "2026-10-24 17:30",
@@ -561,6 +560,7 @@
   "2026-10-29 22:00",
   "2026-10-30 09:00",
   "2026-10-30 10:00",
-  "2026-10-30 11:30"
+  "2026-10-30 11:30",
+  "2026-10-30 13:00"
  ]
 }
