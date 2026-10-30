@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-  "openaiandanthropicarequietlyrehearsingforthedayafteranaicata",
-  "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "thorchainexecaccusestetheroftemporarilyfreezingusdtvaults",
   "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "samaltmanbackedbitcoinlifeinsurermeanwhileraisesmorefunds",
   "https://forklog.com/news/ledger-nachala-rassledovanie-vozmozhnoj-komprometatsii-koshelkov-prodannyh-resellerom-cryptobilis",
@@ -499,10 +495,13 @@
   "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
   "polymarketsuspendstradingafterthirdpartybreachleadstouserlos",
   "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
-  "coinbaseswingsto719millionq3profitoncryptogains"
+  "coinbaseswingsto719millionq3profitoncryptogains",
+  "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+  "livenewsbinancehackrattlescryptoasintelplungesandaispendingf",
+  "https://forklog.com/news/trezor-predupredila-o-vozmozhnom-shpionskom-implante-v-safe-5",
+  "trezorпредупредилаовозможномшпионскомимплантевsafe5"
  ],
  "slots_done": [
-  "2026-10-24 10:00",
   "2026-10-24 11:30",
   "2026-10-24 13:00",
   "2026-10-24 14:30",
@@ -561,6 +560,7 @@
   "2026-10-29 19:00",
   "2026-10-29 20:30",
   "2026-10-29 22:00",
-  "2026-10-30 09:00"
+  "2026-10-30 09:00",
+  "2026-10-30 10:00"
  ]
 }
