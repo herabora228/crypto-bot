@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "samaltmanbackedbitcoinlifeinsurermeanwhileraisesmorefunds",
   "https://forklog.com/news/ledger-nachala-rassledovanie-vozmozhnoj-komprometatsii-koshelkov-prodannyh-resellerom-cryptobilis",
   "ledgerначаларасследованиевозможнойкомпрометациикошельковпрод",
   "https://forklog.com/news/kripta-obhodit-kitaj-s-chernogo-hoda",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
   "livenewsbinancehackrattlescryptoasintelplungesandaispendingf",
   "https://forklog.com/news/trezor-predupredila-o-vozmozhnom-shpionskom-implante-v-safe-5",
-  "trezorпредупредилаовозможномшпионскомимплантевsafe5"
+  "trezorпредупредилаовозможномшпионскомимплантевsafe5",
+  "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+  "trezorwarnscryptobilisbuyersafterreportofhardwareimplantinsa"
  ],
  "slots_done": [
-  "2026-10-24 11:30",
   "2026-10-24 13:00",
   "2026-10-24 14:30",
   "2026-10-24 16:00",
@@ -561,6 +560,7 @@
   "2026-10-29 20:30",
   "2026-10-29 22:00",
   "2026-10-30 09:00",
-  "2026-10-30 10:00"
+  "2026-10-30 10:00",
+  "2026-10-30 11:30"
  ]
 }
