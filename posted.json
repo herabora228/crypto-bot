@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
-  "howzcashplanstohideyourkeysfromaiandquantumattacks",
   "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
   "imffindsdemandfortokenizedstockssaysthemarketisstillvolatile",
   "https://forklog.com/news/ai/microsoft-predstavila-ii-model-na-baze-qwen",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
   "tradersarealreadyplacingleveragedbetsonanthropicsipousingcry",
   "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "binancesays90ofstolenassetsreplenishedtargetssundaywithdrawa"
+  "binancesays90ofstolenassetsreplenishedtargetssundaywithdrawa",
+  "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "bitcoinheldupbetterthanexpectedafterbinancehackstriveceosays"
  ],
  "slots_done": [
-  "2026-10-25 19:00",
   "2026-10-25 20:30",
   "2026-10-25 22:00",
   "2026-10-26 09:00",
@@ -561,6 +560,7 @@
   "2026-10-31 13:00",
   "2026-10-31 14:30",
   "2026-10-31 16:00",
-  "2026-10-31 17:30"
+  "2026-10-31 17:30",
+  "2026-10-31 19:00"
  ]
 }
