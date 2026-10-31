@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-  "thissamaltmanbackedlifeinsurerrunsentirelyonbitcoinandjustra",
   "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
   "cftcdrawsthelinebetweenpredictionmarketsandgamblinginnewrule",
   "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "tethersexcessreservesnearlydoubleto8basq3profithits15b",
   "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
-  "worriedaboutcryptohacksbuybitcoinproxiesinstockmarketinstead"
+  "worriedaboutcryptohacksbuybitcoinproxiesinstockmarketinstead",
+  "https://forklog.com/news/vzlom-binance-podnyal-vopros-o-dvojnyh-standartah-pri-zamorozke-ukradennoj-kriptovalyuty",
+  "взломbinanceподнялвопросодвойныхстандартахпризаморозкеукраде"
  ],
  "slots_done": [
-  "2026-10-25 10:00",
   "2026-10-25 11:30",
   "2026-10-25 13:00",
   "2026-10-25 14:30",
@@ -561,6 +560,7 @@
   "2026-10-30 19:00",
   "2026-10-30 20:30",
   "2026-10-30 22:00",
-  "2026-10-31 09:00"
+  "2026-10-31 09:00",
+  "2026-10-31 10:00"
  ]
 }
