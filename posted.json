@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "ledgerconfirmsunauthorizedhardwareimplantlossesmayexceed86m",
   "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "coldcardsaysitsinvestigatinghowphishinglinkappearedonitsxacc",
   "https://forklog.com/v-x-akkaunte-coldcard-obnaruzhili-fishingovuyu-ssylku",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
   "18yearsinwhathasbitcointrulydone",
   "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-  "anasdaqlistedcompanymaysell450millionbitcoincitingbinancehac"
+  "anasdaqlistedcompanymaysell450millionbitcoincitingbinancehac",
+  "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+  "ubertestshowtokenizationcanputidlecashtoworkwithhsbcfranklin"
  ],
  "slots_done": [
-  "2026-10-25 16:00",
   "2026-10-25 17:30",
   "2026-10-25 19:00",
   "2026-10-25 20:30",
@@ -561,6 +560,7 @@
   "2026-10-31 10:00",
   "2026-10-31 11:30",
   "2026-10-31 13:00",
-  "2026-10-31 14:30"
+  "2026-10-31 14:30",
+  "2026-10-31 16:00"
  ]
 }
