@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-  "imffindsdemandfortokenizedstockssaysthemarketisstillvolatile",
-  "https://forklog.com/news/ai/microsoft-predstavila-ii-model-na-baze-qwen",
-  "microsoftпредставилаиимодельнабазеqwen",
   "https://forklog.com/news/cftc-provela-granitsu-mezhdu-rynkami-predskazanij-i-azartnymi-igrami",
   "cftcпровелаграницумеждурынкамипредсказанийиазартнымииграми",
   "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
@@ -499,10 +495,13 @@
   "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "binancesays90ofstolenassetsreplenishedtargetssundaywithdrawa",
   "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "bitcoinheldupbetterthanexpectedafterbinancehackstriveceosays"
+  "bitcoinheldupbetterthanexpectedafterbinancehackstriveceosays",
+  "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+  "bitcoinswhitepaperturns18andsmallbusinessesarestillpayingfor",
+  "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+  "binancesaysithasreplaced90ofstolencryptoaftermassive63billio"
  ],
  "slots_done": [
-  "2026-10-25 20:30",
   "2026-10-25 22:00",
   "2026-10-26 09:00",
   "2026-10-26 10:00",
@@ -561,6 +560,7 @@
   "2026-10-31 14:30",
   "2026-10-31 16:00",
   "2026-10-31 17:30",
-  "2026-10-31 19:00"
+  "2026-10-31 19:00",
+  "2026-10-31 20:30"
  ]
 }
