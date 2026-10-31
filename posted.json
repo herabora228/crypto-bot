@@ -1,11 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-  "tokenizedcommoditieslookbeyondgoldaslendingandoilopennewmark",
-  "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "justinsunsaystronspostquantumcryptographyhasgoneliveontestne",
-  "https://forklog.com/byvshij-top-menedzher-ftx-raskritikovala-serial-netflix-o-krahe-birzhi",
-  "бывшийтопменеджерftxраскритиковаласериалnetflixокрахебиржи",
   "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "ledgerconfirmsunauthorizedhardwareimplantlossesmayexceed86m",
   "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +493,15 @@
   "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "binance63brecordhacksparkspreelectionpoliticalchatter",
   "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "blockchaininvestigatorchainalysishitbycybersecurityincident"
+  "blockchaininvestigatorchainalysishitbycybersecurityincident",
+  "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+  "whyaimodelscheatrewardhackingexplained",
+  "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+  "18yearsinwhathasbitcointrulydone",
+  "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+  "anasdaqlistedcompanymaysell450millionbitcoincitingbinancehac"
  ],
  "slots_done": [
-  "2026-10-25 14:30",
   "2026-10-25 16:00",
   "2026-10-25 17:30",
   "2026-10-25 19:00",
@@ -561,6 +560,7 @@
   "2026-10-31 09:00",
   "2026-10-31 10:00",
   "2026-10-31 11:30",
-  "2026-10-31 13:00"
+  "2026-10-31 13:00",
+  "2026-10-31 14:30"
  ]
 }
