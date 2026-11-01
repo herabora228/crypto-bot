@@ -1,11 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-  "usinflationethereumupgradetalkscryptoweekahead",
-  "https://forklog.com/news/ai/wsj-amazon-gotov-kupit-ii-startap-decart-za-7-mlrd",
-  "wsjamazonготовкупитьиистартапdecartза7млрд",
-  "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-  "swiraises894milliontorepurposeformerftxbitcoinminergenesisdi",
   "https://forklog.com/news/ai/swi-privlekla-800-mln-na-pereorientatsiyu-majningovoj-infrastruktury-pod-ii",
   "swiпривлекла800млннапереориентациюмайнинговойинфраструктурып",
   "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
@@ -499,10 +493,15 @@
   "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
   "sherrodbrownsohioedgethreatensaroughgoforcryptonextyear",
   "https://forklog.com/news/hakery-perehvatili-domeny-15-defi-proektov",
-  "хакерыперехватилидомены15defiпроектов"
+  "хакерыперехватилидомены15defiпроектов",
+  "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
+  "howtorunanaimodellocallyandwhyyoumightwantto",
+  "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
+  "cryptopacsmadebigrepublicanpushinfinalweeksbeforenovember3el",
+  "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "deepseekdevelopingaiagentrequiringlesshumaninputreport"
  ],
  "slots_done": [
-  "2026-10-26 16:00",
   "2026-10-26 17:30",
   "2026-10-26 19:00",
   "2026-10-26 20:30",
@@ -561,6 +560,7 @@
   "2026-11-01 10:00",
   "2026-11-01 11:30",
   "2026-11-01 13:00",
-  "2026-11-01 14:30"
+  "2026-11-01 14:30",
+  "2026-11-01 16:00"
  ]
 }
