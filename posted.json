@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "saylorteasesstrategybitcoinbuyingafterendingseptemberwithstr",
-  "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-  "ledgersaysunauthorizedimplantfoundinatleastonedevicesoldbycr",
   "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
   "usinflationethereumupgradetalkscryptoweekahead",
   "https://forklog.com/news/ai/wsj-amazon-gotov-kupit-ii-startap-decart-za-7-mlrd",
@@ -499,10 +495,13 @@
   "https://forklog.com/news/ibm-zapustila-instrumenty-dlya-perehoda-na-postkvantovuyu-kriptografiyu",
   "ibmзапустилаинструментыдляпереходанапостквантовуюкриптографи",
   "https://forklog.com/tether-pochti-vosstanovila-izbytochnye-rezervy-posle-letnego-sokrashheniya",
-  "tetherпочтивосстановилаизбыточныерезервыпослелетнегосокращен"
+  "tetherпочтивосстановилаизбыточныерезервыпослелетнегосокращен",
+  "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+  "sherrodbrownsohioedgethreatensaroughgoforcryptonextyear",
+  "https://forklog.com/news/hakery-perehvatili-domeny-15-defi-proektov",
+  "хакерыперехватилидомены15defiпроектов"
  ],
  "slots_done": [
-  "2026-10-26 14:30",
   "2026-10-26 16:00",
   "2026-10-26 17:30",
   "2026-10-26 19:00",
@@ -561,6 +560,7 @@
   "2026-11-01 09:00",
   "2026-11-01 10:00",
   "2026-11-01 11:30",
-  "2026-11-01 13:00"
+  "2026-11-01 13:00",
+  "2026-11-01 14:30"
  ]
 }
