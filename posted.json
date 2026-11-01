@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-  "bitcoinethereumandsolanaetfsallintheredforoctober",
   "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
   "tokenizedstocksshowrealdemandbutremainvolatileandilliquidimf",
   "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
   "binancesaysithasreplaced90ofstolencryptoaftermassive63billio",
   "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-  "binancehackeverythingyouneedtoknowaboutthebiggestcryptoheist"
+  "binancehackeverythingyouneedtoknowaboutthebiggestcryptoheist",
+  "https://forklog.com/news/fbr-obvinilo-hakerov-iz-kndr-vo-vzlome-binance-na-6-mlrd",
+  "фбробвинилохакеровизкндрвовзломеbinanceна6млрд"
  ],
  "slots_done": [
-  "2026-10-26 10:00",
   "2026-10-26 11:30",
   "2026-10-26 13:00",
   "2026-10-26 14:30",
@@ -561,6 +560,7 @@
   "2026-10-31 19:00",
   "2026-10-31 20:30",
   "2026-10-31 22:00",
-  "2026-11-01 09:00"
+  "2026-11-01 09:00",
+  "2026-11-01 10:00"
  ]
 }
