@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
-  "tokenizedstocksshowrealdemandbutremainvolatileandilliquidimf",
   "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
   "everyonewantsscotustotakeuppredictionmarketsstateofcrypto",
   "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
   "binancehackeverythingyouneedtoknowaboutthebiggestcryptoheist",
   "https://forklog.com/news/fbr-obvinilo-hakerov-iz-kndr-vo-vzlome-binance-na-6-mlrd",
-  "фбробвинилохакеровизкндрвовзломеbinanceна6млрд"
+  "фбробвинилохакеровизкндрвовзломеbinanceна6млрд",
+  "https://forklog.com/news/ibm-zapustila-instrumenty-dlya-perehoda-na-postkvantovuyu-kriptografiyu",
+  "ibmзапустилаинструментыдляпереходанапостквантовуюкриптографи"
  ],
  "slots_done": [
-  "2026-10-26 11:30",
   "2026-10-26 13:00",
   "2026-10-26 14:30",
   "2026-10-26 16:00",
@@ -561,6 +560,7 @@
   "2026-10-31 20:30",
   "2026-10-31 22:00",
   "2026-11-01 09:00",
-  "2026-11-01 10:00"
+  "2026-11-01 10:00",
+  "2026-11-01 11:30"
  ]
 }
