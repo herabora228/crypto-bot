@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/ai/swi-privlekla-800-mln-na-pereorientatsiyu-majningovoj-infrastruktury-pod-ii",
-  "swiпривлекла800млннапереориентациюмайнинговойинфраструктурып",
   "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
   "bitmineadds32minethereumastomleesaysfirmisnearlydonestacking",
   "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
   "cryptopacsmadebigrepublicanpushinfinalweeksbeforenovember3el",
   "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "deepseekdevelopingaiagentrequiringlesshumaninputreport"
+  "deepseekdevelopingaiagentrequiringlesshumaninputreport",
+  "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+  "bitcoinetfinvestorsheadfortheexitsafterrecordbinancehack"
  ],
  "slots_done": [
-  "2026-10-26 17:30",
   "2026-10-26 19:00",
   "2026-10-26 20:30",
   "2026-10-26 22:00",
@@ -561,6 +560,7 @@
   "2026-11-01 11:30",
   "2026-11-01 13:00",
   "2026-11-01 14:30",
-  "2026-11-01 16:00"
+  "2026-11-01 16:00",
+  "2026-11-01 17:30"
  ]
 }
