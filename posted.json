@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-  "bitcoindivergesfromsouthkoreanstocksasaiconcernsdeepenthekos",
   "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
   "leavecryptobacklashoverfrenchproposaltoreportwalletsover112k",
   "https://forklog.com/metaplanet-vypustit-obligatsii-na-329-mln-dlya-pogasheniya-dolgov",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
   "bitcoineasesto77900asbinancecustomerspull36billionafterwithd",
   "https://forklog.com/strategy-dokupila-811-btc-za-65-5-mln",
-  "strategyдокупила811btcза655млн"
+  "strategyдокупила811btcза655млн",
+  "https://forklog.com/birzha-mercado-bitcoin-priostanovila-operatsii-posle-intsidenta-bezopasnosti",
+  "биржаmercadobitcoinприостановилаоперациипослеинцидентабезопа"
  ],
  "slots_done": [
-  "2026-10-27 16:00",
   "2026-10-27 17:30",
   "2026-10-27 19:00",
   "2026-10-27 20:30",
@@ -561,6 +560,7 @@
   "2026-11-02 10:00",
   "2026-11-02 11:30",
   "2026-11-02 13:00",
-  "2026-11-02 14:30"
+  "2026-11-02 14:30",
+  "2026-11-02 16:00"
  ]
 }
