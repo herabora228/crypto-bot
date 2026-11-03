@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-  "bitcoinwhalethatsatthrougheverycrashsince2020justmoved377m",
   "https://forklog.com/news/inzhenera-openai-arestovali-za-ustanovku-proslushki",
   "инженераopenaiарестовализаустановкупрослушки",
   "https://forklog.com/news/ai/anthropic-dopustila-poyavlenie-samorasprostranyayushhegosya-ii-na-iot-ustrojstvah-v-blizhajshie-mesyatsy",
@@ -499,10 +497,11 @@
   "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
   "claudebuiltlinuxexploittargetsbugthatubuntustillhasntpatched",
   "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "coinbasehitwith50pricetargetcutaspostearningsroutdeepens"
+  "coinbasehitwith50pricetargetcutaspostearningsroutdeepens",
+  "https://forklog.com/crypto-com-zakroet-prilozhenie-dlya-roznichnyh-klientov-v-gonkonge",
+  "cryptocomзакроетприложениедлярозничныхклиентоввгонконге"
  ],
  "slots_done": [
-  "2026-10-28 10:00",
   "2026-10-28 11:30",
   "2026-10-28 13:00",
   "2026-10-28 14:30",
@@ -561,6 +560,7 @@
   "2026-11-02 19:00",
   "2026-11-02 20:30",
   "2026-11-02 22:00",
-  "2026-11-03 09:00"
+  "2026-11-03 09:00",
+  "2026-11-03 10:00"
  ]
 }
