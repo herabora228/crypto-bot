@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/inzhenera-openai-arestovali-za-ustanovku-proslushki",
-  "инженераopenaiарестовализаустановкупрослушки",
   "https://forklog.com/news/ai/anthropic-dopustila-poyavlenie-samorasprostranyayushhegosya-ii-na-iot-ustrojstvah-v-blizhajshie-mesyatsy",
   "anthropicдопустилапоявлениесамораспространяющегосяиинаiotуст",
   "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "coinbasehitwith50pricetargetcutaspostearningsroutdeepens",
   "https://forklog.com/crypto-com-zakroet-prilozhenie-dlya-roznichnyh-klientov-v-gonkonge",
-  "cryptocomзакроетприложениедлярозничныхклиентоввгонконге"
+  "cryptocomзакроетприложениедлярозничныхклиентоввгонконге",
+  "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+  "northkoreadenies63bbinancehackcallsfbifindingapoliticalprovo"
  ],
  "slots_done": [
-  "2026-10-28 11:30",
   "2026-10-28 13:00",
   "2026-10-28 14:30",
   "2026-10-28 16:00",
@@ -561,6 +560,7 @@
   "2026-11-02 20:30",
   "2026-11-02 22:00",
   "2026-11-03 09:00",
-  "2026-11-03 10:00"
+  "2026-11-03 10:00",
+  "2026-11-03 11:30"
  ]
 }
