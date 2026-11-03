@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-  "ledgerasksresellersinsevenasianmarketstopulldevicesaftersusp",
   "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
   "cryptolongshortwhygoldandbitcoinbelonginthesameportfolio",
   "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
@@ -499,10 +497,11 @@
   "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
   "morningminutetomleecallsthebinancehackbullishforethereum",
   "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-  "southkoreaasksitsbiggestbankshowamajorcryptohackwouldhitthem"
+  "southkoreaasksitsbiggestbankshowamajorcryptohackwouldhitthem",
+  "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+  "amazonteslaandspacexjoinokxicetokenizedstockobjectionsasdead"
  ],
  "slots_done": [
-  "2026-10-28 17:30",
   "2026-10-28 19:00",
   "2026-10-28 20:30",
   "2026-10-28 22:00",
@@ -561,6 +560,7 @@
   "2026-11-03 11:30",
   "2026-11-03 13:00",
   "2026-11-03 14:30",
-  "2026-11-03 16:00"
+  "2026-11-03 16:00",
+  "2026-11-03 17:30"
  ]
 }
