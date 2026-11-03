@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/380920/morning-minute-move-over-saylor-theres-a-new-top-buyer-in-town",
-  "morningminutemoveoversaylortheresanewtopbuyerintown",
   "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
   "ledgerasksresellersinsevenasianmarketstopulldevicesaftersusp",
   "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
@@ -499,10 +497,11 @@
   "https://forklog.com/consensys-zapustila-sistemu-raschetov-mezhdu-raznymi-blokchejnami",
   "consensysзапустиласистемурасчетовмеждуразнымиблокчейнами",
   "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
-  "morningminutetomleecallsthebinancehackbullishforethereum"
+  "morningminutetomleecallsthebinancehackbullishforethereum",
+  "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
+  "southkoreaasksitsbiggestbankshowamajorcryptohackwouldhitthem"
  ],
  "slots_done": [
-  "2026-10-28 16:00",
   "2026-10-28 17:30",
   "2026-10-28 19:00",
   "2026-10-28 20:30",
@@ -561,6 +560,7 @@
   "2026-11-03 10:00",
   "2026-11-03 11:30",
   "2026-11-03 13:00",
-  "2026-11-03 14:30"
+  "2026-11-03 14:30",
+  "2026-11-03 16:00"
  ]
 }
