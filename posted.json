@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
-  "whatisahardwarewalletcryptocoldstorageexplained",
   "https://forklog.com/news/solana-v-poslednij-moment-otlozhila-ivent-v-shanhae",
   "solanaвпоследниймоментотложилаивентвшанхае",
   "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/ai/openai-soobshhila-ob-obnaruzhenii-948-uyazvimostej-v-yadre-linux",
   "openaiсообщилаобобнаружении948уязвимостейвядреlinux",
   "https://forklog.com/news/coinw-obyasnila-kak-rabotaet-popolnenie-v-rublyah-cherez-cifra-markets",
-  "coinwобъяснилакакработаетпополнениеврубляхчерезciframarkets"
+  "coinwобъяснилакакработаетпополнениеврубляхчерезciframarkets",
+  "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+  "bitcoinminersareoversoldfollowing35octoberroutvanecksays"
  ],
  "slots_done": [
-  "2026-10-30 13:00",
   "2026-10-30 14:30",
   "2026-10-30 16:00",
   "2026-10-30 17:30",
@@ -561,6 +560,7 @@
   "2026-11-04 22:00",
   "2026-11-05 09:00",
   "2026-11-05 10:00",
-  "2026-11-05 11:30"
+  "2026-11-05 11:30",
+  "2026-11-05 13:00"
  ]
 }
