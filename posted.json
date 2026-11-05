@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/vzlom-do-pokupki-kak-u-polzovatelej-ledger-pohitili-kriptoaktivy-pochti-na-100-mln",
-  "взломдопокупкикакупользователейledgerпохитиликриптоактивыпоч",
   "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "circlesallairesaysstablecoinissuerlookingtoenter40developing",
   "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
@@ -499,10 +497,11 @@
   "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
   "openaifound948linuxsecurityflawsandfiguredouthowtoexploitthe",
   "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "binancederibitrevokesignalplusapikeysafterfaketeamsinviteatt"
+  "binancederibitrevokesignalplusapikeysafterfaketeamsinviteatt",
+  "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
+  "dojcreatessuperintelligencetaskforcetoguardagainstaiabuse"
  ],
  "slots_done": [
-  "2026-10-30 22:00",
   "2026-10-31 09:00",
   "2026-10-31 10:00",
   "2026-10-31 11:30",
@@ -561,6 +560,7 @@
   "2026-11-05 16:00",
   "2026-11-05 17:30",
   "2026-11-05 19:00",
-  "2026-11-05 20:30"
+  "2026-11-05 20:30",
+  "2026-11-05 22:00"
  ]
 }
