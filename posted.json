@@ -1,11 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/solana-v-poslednij-moment-otlozhila-ivent-v-shanhae",
-  "solanaвпоследниймоментотложилаивентвшанхае",
-  "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-  "tokenizedteslasurgesaselonmuskunveilsspacexpoweredflyingroad",
-  "https://forklog.com/ubytok-capital-b-za-pervoe-polugodie-dostig-78-mln-iz-za-pereotsenki-bitkoina",
-  "убытокcapitalbзапервоеполугодиедостиг78млниззапереоценкибитк",
   "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "deutschebankpreparesgermancryptocustodylauncheyesasiareport",
   "https://forklog.com/vyruchka-circle-za-pervuyu-polovinu-goda-dostigla-1-4-mlrd",
@@ -499,10 +493,15 @@
   "https://forklog.com/news/coinw-obyasnila-kak-rabotaet-popolnenie-v-rublyah-cherez-cifra-markets",
   "coinwобъяснилакакработаетпополнениеврубляхчерезciframarkets",
   "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
-  "bitcoinminersareoversoldfollowing35octoberroutvanecksays"
+  "bitcoinminersareoversoldfollowing35octoberroutvanecksays",
+  "https://forklog.com/orange-prisoedinilas-k-programme-kvantovo-ustojchivoj-ustanovki-esim",
+  "orangeприсоединиласькпрограммеквантовоустойчивойустановкиesi",
+  "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+  "morningminutedemocratsweeppumpscryptoasclarityactresurfaces",
+  "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+  "stablecoinsgomainstreamassamsungwalletaddsusdconsolana"
  ],
  "slots_done": [
-  "2026-10-30 14:30",
   "2026-10-30 16:00",
   "2026-10-30 17:30",
   "2026-10-30 19:00",
@@ -561,6 +560,7 @@
   "2026-11-05 09:00",
   "2026-11-05 10:00",
   "2026-11-05 11:30",
-  "2026-11-05 13:00"
+  "2026-11-05 13:00",
+  "2026-11-05 14:30"
  ]
 }
