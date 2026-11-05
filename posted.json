@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
-  "blackrockslarryfinkwarnsaidatacenterhaltcouldtipusintorecess",
   "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
   "boomorbustbitcoinwinstheaitradebitwiseciosays",
   "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "riotsharessurgeon28baileaseashut8sinksonrevenuemiss",
   "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
-  "coinbasesays99ofcustomercryptoisofflineandoutofhackersreach"
+  "coinbasesays99ofcustomercryptoisofflineandoutofhackersreach",
+  "https://forklog.com/news/polygon-predlozhila-vernut-binance-i-polymarket-6-5-mln-cherez-hardfork",
+  "polygonпредложилавернутьbinanceиpolymarket65млнчерезхардфорк"
  ],
  "slots_done": [
-  "2026-10-30 10:00",
   "2026-10-30 11:30",
   "2026-10-30 13:00",
   "2026-10-30 14:30",
@@ -561,6 +560,7 @@
   "2026-11-04 19:00",
   "2026-11-04 20:30",
   "2026-11-04 22:00",
-  "2026-11-05 09:00"
+  "2026-11-05 09:00",
+  "2026-11-05 10:00"
  ]
 }
