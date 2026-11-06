@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-  "cryptofirmslaunchquantumallianceas6millionbitcoinsitexposed",
-  "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
-  "cryptosuperpacfairshakepoursmillionsmoreintodefeatingsherrod",
   "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
   "goldmanwellsfargomorganstanleyseetokenizationasagrowthplayno",
   "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
@@ -499,10 +495,13 @@
   "https://forklog.com/nigeriya-vvela-litsenzirovanie-stejblkoinov-i-zapretila-algoritmicheskie-tokeny",
   "нигерияввелалицензированиестейблкоиновизапретилаалгоритмичес",
   "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
-  "ussanctions45moretargetstiedtoallegedcryptoscamempireprinceg"
+  "ussanctions45moretargetstiedtoallegedcryptoscamempireprinceg",
+  "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+  "paraguayprotestsoverbanklockoutintensifyasimpeachmentvotenea",
+  "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "russiafinalizescryptotradingrulesaheadofnov17rollout"
  ],
  "slots_done": [
-  "2026-10-31 20:30",
   "2026-10-31 22:00",
   "2026-11-01 09:00",
   "2026-11-01 10:00",
@@ -561,6 +560,7 @@
   "2026-11-06 14:30",
   "2026-11-06 16:00",
   "2026-11-06 17:30",
-  "2026-11-06 19:00"
+  "2026-11-06 19:00",
+  "2026-11-06 20:30"
  ]
 }
