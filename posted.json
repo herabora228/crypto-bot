@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "circlesallairesaysstablecoinissuerlookingtoenter40developing",
   "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
   "bankscouldslowstablecoingrowthbypayingsaversmorebispaperfind",
   "https://forklog.com/smi-deutsche-bank-zapustit-kriptokastodialnyj-servis-v-germanii",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "binancederibitrevokesignalplusapikeysafterfaketeamsinviteatt",
   "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
-  "dojcreatessuperintelligencetaskforcetoguardagainstaiabuse"
+  "dojcreatessuperintelligencetaskforcetoguardagainstaiabuse",
+  "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+  "greeceapproves10taxoncryptogainsand15levyondefiincome"
  ],
  "slots_done": [
-  "2026-10-31 10:00",
   "2026-10-31 11:30",
   "2026-10-31 13:00",
   "2026-10-31 14:30",
@@ -561,6 +560,7 @@
   "2026-11-05 19:00",
   "2026-11-05 20:30",
   "2026-11-05 22:00",
-  "2026-11-06 09:00"
+  "2026-11-06 09:00",
+  "2026-11-06 10:00"
  ]
 }
