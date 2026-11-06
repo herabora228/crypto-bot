@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-  "bankscouldslowstablecoingrowthbypayingsaversmorebispaperfind",
   "https://forklog.com/smi-deutsche-bank-zapustit-kriptokastodialnyj-servis-v-germanii",
   "смиdeutschebankзапуститкриптокастодиальныйсервисвгермании",
   "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
@@ -499,10 +497,11 @@
   "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
   "dojcreatessuperintelligencetaskforcetoguardagainstaiabuse",
   "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-  "greeceapproves10taxoncryptogainsand15levyondefiincome"
+  "greeceapproves10taxoncryptogainsand15levyondefiincome",
+  "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+  "zcashsnu7upgradegoesliverecycling60offeestofundfutureblockre"
  ],
  "slots_done": [
-  "2026-10-31 11:30",
   "2026-10-31 13:00",
   "2026-10-31 14:30",
   "2026-10-31 16:00",
@@ -561,6 +560,7 @@
   "2026-11-05 20:30",
   "2026-11-05 22:00",
   "2026-11-06 09:00",
-  "2026-11-06 10:00"
+  "2026-11-06 10:00",
+  "2026-11-06 11:30"
  ]
 }
