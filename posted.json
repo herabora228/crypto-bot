@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-  "wallstreetfreakedoutfridayvixandbitcoinsaythefearmayfademond",
   "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
   "mapquestnowshowsdriverswhereflockcamerasarewatching",
   "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "bitcoinholdershavereceivedecashwhatcanyoudowithit",
   "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-  "ustreasurymovestocutoffcryptoexchangemexcover16billioninalle"
+  "ustreasurymovestocutoffcryptoexchangemexcover16billioninalle",
+  "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+  "binanceusersinsomeeuropeancountriestoldtopullcryptobeforefee"
  ],
  "slots_done": [
-  "2026-11-01 20:30",
   "2026-11-01 22:00",
   "2026-11-02 09:00",
   "2026-11-02 10:00",
@@ -561,6 +560,7 @@
   "2026-11-07 14:30",
   "2026-11-07 16:00",
   "2026-11-07 17:30",
-  "2026-11-07 19:00"
+  "2026-11-07 19:00",
+  "2026-11-07 20:30"
  ]
 }
