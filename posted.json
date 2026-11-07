@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-  "bitcoinetfsshednearly1billionintwoweeksasuptoberstaysred",
   "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
   "wallstreetfreakedoutfridayvixandbitcoinsaythefearmayfademond",
   "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/ai/kitaj-ogranichil-peredachu-robototehnicheskih-tehnologij-softbank-na-fone-borby-za-fizicheskij-ii",
   "китайограничилпередачуробототехническихтехнологийsoftbankнаф",
   "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "bitcoinholdershavereceivedecashwhatcanyoudowithit"
+  "bitcoinholdershavereceivedecashwhatcanyoudowithit",
+  "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+  "ustreasurymovestocutoffcryptoexchangemexcover16billioninalle"
  ],
  "slots_done": [
-  "2026-11-01 19:00",
   "2026-11-01 20:30",
   "2026-11-01 22:00",
   "2026-11-02 09:00",
@@ -561,6 +560,7 @@
   "2026-11-07 13:00",
   "2026-11-07 14:30",
   "2026-11-07 16:00",
-  "2026-11-07 17:30"
+  "2026-11-07 17:30",
+  "2026-11-07 19:00"
  ]
 }
