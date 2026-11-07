@@ -1,11 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "solanashowsresiliencebutsomeareasneedcontinuedobservationfid",
-  "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-  "chipstockbetslost52millionin10minuteswithwallstreetshut",
-  "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "tetherbacksaisaasstrategicinvestorcompletingseedextensionrou",
   "https://forklog.com/riken-dobilsya-tochnosti-upravleniya-kremnievymi-kubitami-okolo-99-9",
   "rikenдобилсяточностиуправлениякремниевымикубитамиоколо999",
   "https://forklog.com/news/ai/gonkong-otkryl-tsentr-ispytanij-robotov-s-voploshhennym-ii",
@@ -499,10 +493,15 @@
   "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "binancehackiscyberwartrmlabsexecutivesays",
   "https://forklog.com/news/pochemu-vzlom-binance-zastavit-birzhi-pozhertvovat-skorostyu",
-  "почемувзломbinanceзаставитбиржипожертвоватьскоростью"
+  "почемувзломbinanceзаставитбиржипожертвоватьскоростью",
+  "https://forklog.com/exclusive/ai/slishkom-blizkij-sobesednik",
+  "слишкомблизкийсобеседник",
+  "https://forklog.com/news/ai/openai-privlekla-11-mlrd-pri-otsenke-v-1-25-trln",
+  "openaiпривлекла11млрдприоценкев125трлн",
+  "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "suspiciouspredictionmarketactivityseenbeforeelectionpollrele"
  ],
  "slots_done": [
-  "2026-11-01 11:30",
   "2026-11-01 13:00",
   "2026-11-01 14:30",
   "2026-11-01 16:00",
@@ -561,6 +560,7 @@
   "2026-11-06 20:30",
   "2026-11-06 22:00",
   "2026-11-07 09:00",
-  "2026-11-07 10:00"
+  "2026-11-07 10:00",
+  "2026-11-07 11:30"
  ]
 }
