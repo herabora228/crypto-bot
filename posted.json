@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-  "cardanofoundercharleshoskinsonisbuildinganewprogramminglangu",
   "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "madeanhonestmistakewithcryptotaxesnewbillofferswayout",
   "https://forklog.com/bitkoin-majner-iren-stal-sponsorom-real-madrid",
@@ -499,10 +497,11 @@
   "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
   "thisbitcoindevelopersideawouldmakequantumattacksalosingbet",
   "https://forklog.com/news/byvshij-sotrudnik-holograph-poluchil-pyat-let-tyurmy-za-krazhu-1-mlrd-tokenov-hlg",
-  "бывшийсотрудникholographполучилпятьлеттюрьмызакражу1млрдтоке"
+  "бывшийсотрудникholographполучилпятьлеттюрьмызакражу1млрдтоке",
+  "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+  "thesefinlandhomesgetfreeheatfrombitcoinminersaslongasbtcstay"
  ],
  "slots_done": [
-  "2026-11-02 19:00",
   "2026-11-02 20:30",
   "2026-11-02 22:00",
   "2026-11-03 09:00",
@@ -561,6 +560,7 @@
   "2026-11-08 13:00",
   "2026-11-08 14:30",
   "2026-11-08 16:00",
-  "2026-11-08 17:30"
+  "2026-11-08 17:30",
+  "2026-11-08 19:00"
  ]
 }
