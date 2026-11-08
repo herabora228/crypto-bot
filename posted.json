@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
-  "latviaeyescryptotaxpaymentsin2027asparliamentoverhaulscrypto",
   "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
   "stablecoinsupplystallsbutpaymentsjump45asvisamastercardandst",
   "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
   "binanceusersinsomeeuropeancountriestoldtopullcryptobeforefee",
   "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
-  "applecompletestheseteverymagnificentsevenstockoptsoutofokxic"
+  "applecompletestheseteverymagnificentsevenstockoptsoutofokxic",
+  "https://forklog.com/news/zloumyshlenniki-poluchili-nomera-kart-i-domashnie-adresa-klientov-gnosis-pay",
+  "злоумышленникиполучилиномеракартидомашниеадресаклиентовgnosi"
  ],
  "slots_done": [
-  "2026-11-02 10:00",
   "2026-11-02 11:30",
   "2026-11-02 13:00",
   "2026-11-02 14:30",
@@ -561,6 +560,7 @@
   "2026-11-07 19:00",
   "2026-11-07 20:30",
   "2026-11-07 22:00",
-  "2026-11-08 09:00"
+  "2026-11-08 09:00",
+  "2026-11-08 10:00"
  ]
 }
