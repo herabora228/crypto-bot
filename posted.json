@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-  "cmesbitcoincashuniswapfuturesglobalpmiscryptoweekahead",
-  "https://forklog.com/lookonchain-mara-perevela-na-birzhi-1000-btc",
-  "lookonchainmaraперевеланабиржи1000btc",
   "https://forklog.com/news/uchenye-smodelirovali-fotonnyj-kvantovyj-kompyuter-na-obychnyh-protsessorah",
   "ученыесмоделировалифотонныйквантовыйкомпьютернаобычныхпроцес",
   "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
@@ -499,10 +495,13 @@
   "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "amsterdamprotestersbreakintomicrosoftdatacenterconstructions",
   "https://forklog.com/sotrudnik-fbr-ispolzoval-sluzhebnyj-dostup-dlya-krazhi-kriptovalyuty-na-2-5-mln",
-  "сотрудникфбриспользовалслужебныйдоступдлякражикриптовалютына"
+  "сотрудникфбриспользовалслужебныйдоступдлякражикриптовалютына",
+  "https://forklog.com/news/ai/strany-yugo-vostochnoj-azii-nachali-ogranichivat-stroitelstvo-data-tsentrov",
+  "страныюговосточнойазииначалиограничиватьстроительстводатацен",
+  "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "binancesfinancechiefkaiserngtoleavecompanyreportsays"
  ],
  "slots_done": [
-  "2026-11-02 13:00",
   "2026-11-02 14:30",
   "2026-11-02 16:00",
   "2026-11-02 17:30",
@@ -561,6 +560,7 @@
   "2026-11-07 22:00",
   "2026-11-08 09:00",
   "2026-11-08 10:00",
-  "2026-11-08 11:30"
+  "2026-11-08 11:30",
+  "2026-11-08 13:00"
  ]
 }
