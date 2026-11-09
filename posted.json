@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-  "bitcoindropsto81400asasianchipstockstumbleoptionstradersseek",
   "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
   "microsoftalphabetandgoldmansachsjoinobjectionstookxicetokeni",
   "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
@@ -499,10 +497,11 @@
   "https://forklog.com/acala-i-karura-obyavili-o-planah-zakrytiya",
   "acalaиkaruraобъявилиопланахзакрытия",
   "https://forklog.com/bitmine-uvelichila-rezerv-do-6-07-mln-eth",
-  "bitmineувеличиларезервдо607млнeth"
+  "bitmineувеличиларезервдо607млнeth",
+  "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+  "abitcoinblockjustneareda2015transactionrecordbutpaidonly180i"
  ],
  "slots_done": [
-  "2026-11-03 17:30",
   "2026-11-03 19:00",
   "2026-11-03 20:30",
   "2026-11-03 22:00",
@@ -561,6 +560,7 @@
   "2026-11-09 11:30",
   "2026-11-09 13:00",
   "2026-11-09 14:30",
-  "2026-11-09 16:00"
+  "2026-11-09 16:00",
+  "2026-11-09 17:30"
  ]
 }
