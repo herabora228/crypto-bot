@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/ai/odin-snimok-i-prognoz-ii-obuchili-otsenivat-shansy-onkopatsienta-na-vyzhivanie-po-selfi",
-  "одинснимокипрогнозииобучилиоцениватьшансыонкопациентанавыжив",
   "https://forklog.com/smi-anthropic-gotovit-ii-model-s-uluchshennym-ponimaniem-namerenij-polzovatelej",
   "смиanthropicготовитиимодельсулучшеннымпониманиемнамеренийпол",
   "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
   "solanasetforanothertokenizedstockvenueasformationnotifiesthe",
   "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
-  "bitcoininlimboasstocksreboundaheadofusinflationreport"
+  "bitcoininlimboasstocksreboundaheadofusinflationreport",
+  "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "northkoreanhackerscreatememecoinstolaunderfundsfrombinanceha"
  ],
  "slots_done": [
-  "2026-11-03 22:00",
   "2026-11-04 09:00",
   "2026-11-04 10:00",
   "2026-11-04 11:30",
@@ -561,6 +560,7 @@
   "2026-11-09 16:00",
   "2026-11-09 17:30",
   "2026-11-09 19:00",
-  "2026-11-09 20:30"
+  "2026-11-09 20:30",
+  "2026-11-09 22:00"
  ]
 }
