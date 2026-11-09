@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-  "kazakhstancourtbarscoinbasefiveothersfromunlicensedcryptoser",
   "https://forklog.com/news/ai/odin-snimok-i-prognoz-ii-obuchili-otsenivat-shansy-onkopatsienta-na-vyzhivanie-po-selfi",
   "одинснимокипрогнозииобучилиоцениватьшансыонкопациентанавыжив",
   "https://forklog.com/smi-anthropic-gotovit-ii-model-s-uluchshennym-ponimaniem-namerenij-polzovatelej",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
   "abitcoinblockjustneareda2015transactionrecordbutpaidonly180i",
   "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
-  "solanasetforanothertokenizedstockvenueasformationnotifiesthe"
+  "solanasetforanothertokenizedstockvenueasformationnotifiesthe",
+  "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+  "bitcoininlimboasstocksreboundaheadofusinflationreport"
  ],
  "slots_done": [
-  "2026-11-03 20:30",
   "2026-11-03 22:00",
   "2026-11-04 09:00",
   "2026-11-04 10:00",
@@ -561,6 +560,7 @@
   "2026-11-09 14:30",
   "2026-11-09 16:00",
   "2026-11-09 17:30",
-  "2026-11-09 19:00"
+  "2026-11-09 19:00",
+  "2026-11-09 20:30"
  ]
 }
