@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
-  "hackersarerunningapplesiosonandroidphonesforthefirsttime",
-  "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "visameshpartnertoenablecryptospendingat175mmerchantlocations",
   "https://forklog.com/blackrock-podala-zayavku-na-bitkoin-etf-s-zashhitoj-ot-padeniya-kotirovok",
   "blackrockподалазаявкунабиткоинetfсзащитойотпадениякотировок",
   "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
@@ -499,10 +495,13 @@
   "https://forklog.com/cryptorium/chto-takoe-zaboj-svinej-i-kak-rabotaet-eta-kriptoafera",
   "чтотакоезабойсвинейикакработаетэтакриптоафера",
   "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "btcpriceeyes73kamidnvidiavolatilitythreethingstoknowinbitcoi"
+  "btcpriceeyes73kamidnvidiavolatilitythreethingstoknowinbitcoi",
+  "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
+  "nvidialedtechselloffweighsoncryptomajors",
+  "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "coinbasesusnationaltrustbankchartertakeseffect"
  ],
  "slots_done": [
-  "2026-11-03 13:00",
   "2026-11-03 14:30",
   "2026-11-03 16:00",
   "2026-11-03 17:30",
@@ -561,6 +560,7 @@
   "2026-11-08 22:00",
   "2026-11-09 09:00",
   "2026-11-09 10:00",
-  "2026-11-09 11:30"
+  "2026-11-09 11:30",
+  "2026-11-09 13:00"
  ]
 }
