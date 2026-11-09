@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
-  "usorderscivilianagenciestoripdeepseekoutofgovernmentsystems",
   "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
   "jpmorgansjpmcoinarrivesonethereumputtingbankdollarsonapublic",
   "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/polymarket-nachala-proverku-podozritelnyh-stavok-na-vyborah-v-ssha",
   "polymarketначалапроверкуподозрительныхставокнавыборахвсша",
   "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
-  "whattheelectionresultsmeanforcryptostateofcrypto"
+  "whattheelectionresultsmeanforcryptostateofcrypto",
+  "https://forklog.com/cryptorium/chto-takoe-zaboj-svinej-i-kak-rabotaet-eta-kriptoafera",
+  "чтотакоезабойсвинейикакработаетэтакриптоафера"
  ],
  "slots_done": [
-  "2026-11-03 10:00",
   "2026-11-03 11:30",
   "2026-11-03 13:00",
   "2026-11-03 14:30",
@@ -561,6 +560,7 @@
   "2026-11-08 19:00",
   "2026-11-08 20:30",
   "2026-11-08 22:00",
-  "2026-11-09 09:00"
+  "2026-11-09 09:00",
+  "2026-11-09 10:00"
  ]
 }
