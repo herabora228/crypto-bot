@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-  "morningminutebitcointopsjpmorganstenyearforecastforallassets",
-  "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "solanasalpenglowlaunchesonmainnettargets99fasterfinality",
   "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
   "bybitwilllookforbigbrokerpartnershipstotakeonrobinhoodintheu",
   "https://forklog.com/news/frantsiya-prodvinulas-v-sozdanii-kvantovogo-kompyutera-na-1000-logicheskih-kubitov",
@@ -499,10 +495,13 @@
   "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
   "plumeaffiliatelandsbrokerdealerlicensetobringrealusassetsonc",
   "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-  "goldmansachscitiamongbankssaidtocommit270milliontostablecoin"
+  "goldmansachscitiamongbankssaidtocommit270milliontostablecoin",
+  "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
+  "elonmuskcallsclaudeopus55amasterpieceadmitsgrok48wontmatchit",
+  "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+  "grayscalebets1milliononzcashasprivacycointumbles"
  ],
  "slots_done": [
-  "2026-11-04 20:30",
   "2026-11-04 22:00",
   "2026-11-05 09:00",
   "2026-11-05 10:00",
@@ -561,6 +560,7 @@
   "2026-11-10 14:30",
   "2026-11-10 16:00",
   "2026-11-10 17:30",
-  "2026-11-10 19:00"
+  "2026-11-10 19:00",
+  "2026-11-10 20:30"
  ]
 }
