@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/qubic-vozobnovila-rabotu-blokchejna-posle-vzloma",
-  "qubicвозобновилаработублокчейнапослевзлома",
   "https://forklog.com/news/toshiba-predstavila-platformu-dlya-zashhity-setej-ot-kvantovyh-ugroz",
   "toshibaпредставилаплатформудлязащитысетейотквантовыхугроз",
   "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://forklog.com/kriptokompanii-podderzhali-cftc-v-spore-s-uoll-strit-iz-za-bessrochnyh-fyuchersov",
   "криптокомпанииподдержалиcftcвспоресуоллстритиззабессрочныхфь",
   "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "bitcoinmaybenefitasglobaltighteningslowsbinanceresearchsays"
+  "bitcoinmaybenefitasglobaltighteningslowsbinanceresearchsays",
+  "https://forklog.com/news/inflyatsiya-v-ssha-prevysila-prognoz-i-usilila-ozhidaniya-povysheniya-stavki-frs",
+  "инфляциявсшапревысилапрогнозиусилилаожиданияповышенияставкиф"
  ],
  "slots_done": [
-  "2026-11-04 16:00",
   "2026-11-04 17:30",
   "2026-11-04 19:00",
   "2026-11-04 20:30",
@@ -561,6 +560,7 @@
   "2026-11-10 10:00",
   "2026-11-10 11:30",
   "2026-11-10 13:00",
-  "2026-11-10 14:30"
+  "2026-11-10 14:30",
+  "2026-11-10 16:00"
  ]
 }
