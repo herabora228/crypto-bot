@@ -1,11 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-  "bybitwilllookforbigbrokerpartnershipstotakeonrobinhoodintheu",
-  "https://forklog.com/news/frantsiya-prodvinulas-v-sozdanii-kvantovogo-kompyutera-na-1000-logicheskih-kubitov",
-  "францияпродвинуласьвсозданииквантовогокомпьютерана1000логиче",
-  "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-  "cryptolongshortwhyrealworldassetsneedfixedrateloansonchain",
   "https://forklog.com/standard-chartered-dogovorilsya-o-pokupke-kriptokastodiana-zodia-custody",
   "standardcharteredдоговорилсяопокупкекриптокастодианаzodiacus",
   "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
@@ -499,10 +493,15 @@
   "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
   "elonmuskcallsclaudeopus55amasterpieceadmitsgrok48wontmatchit",
   "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
-  "grayscalebets1milliononzcashasprivacycointumbles"
+  "grayscalebets1milliononzcashasprivacycointumbles",
+  "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
+  "nvidiaerases2026gainsasrepublicansthreatenjensenhuangwithsub",
+  "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+  "warrenwhatiswhitehousedoingtopreventarepeatofteleprompterstr",
+  "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "kimberdigitalsecuritiesgainsbrokerdealerstatusfortokenizedas"
  ],
  "slots_done": [
-  "2026-11-04 22:00",
   "2026-11-05 09:00",
   "2026-11-05 10:00",
   "2026-11-05 11:30",
@@ -561,6 +560,7 @@
   "2026-11-10 16:00",
   "2026-11-10 17:30",
   "2026-11-10 19:00",
-  "2026-11-10 20:30"
+  "2026-11-10 20:30",
+  "2026-11-10 22:00"
  ]
 }
