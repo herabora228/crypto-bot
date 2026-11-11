@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-  "bitcoinslidesbelow82000asaidoubtsreturnwithdefitokensleading",
   "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
   "ethereumsfourminutesettlementplancouldlowerthecostofmovingcr",
   "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
   "okxicetokenizedstockvenuesetslaunchturningtocryptocompaniesa",
   "https://forklog.com/v-bitcoin-core-raskryli-tri-uyazvimosti-vklyuchaya-opasnuyu-dlya-majnerov",
-  "вbitcoincoreраскрылитриуязвимостивключаяопаснуюдлямайнеров"
+  "вbitcoincoreраскрылитриуязвимостивключаяопаснуюдлямайнеров",
+  "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+  "deutschebankgoeslivewithcryptocustodyafterafiveyearbuildup"
  ],
  "slots_done": [
-  "2026-11-05 20:30",
   "2026-11-05 22:00",
   "2026-11-06 09:00",
   "2026-11-06 10:00",
@@ -561,6 +560,7 @@
   "2026-11-11 14:30",
   "2026-11-11 16:00",
   "2026-11-11 17:30",
-  "2026-11-11 19:00"
+  "2026-11-11 19:00",
+  "2026-11-11 20:30"
  ]
 }
