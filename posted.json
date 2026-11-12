@@ -1,11 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/pentagon-zapretil-voennym-ispolzovat-insajderskuyu-informatsiyu-dlya-stavok",
-  "пентагонзапретилсотрудникамставитьнаpolymarketиkalshiпонепуб",
-  "https://forklog.com/news/heatbit-predstavila-nagrevatel-vody-s-funktsiej-majninga-bitkoina",
-  "heatbitпредставиланагревательводысфункциеймайнингабиткоина",
-  "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-  "ethereumdelaysglamsterdamtestnetforkovergassecurityflaws",
   "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
   "morningminutea16zdropscryptofromitsfund",
   "https://forklog.com/news/kitaj-zaplaniroval-sozdanie-natsionalnoj-blokchejn-seti-k-2030-godu",
@@ -499,10 +493,15 @@
   "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
   "anchoragedigitalsstablecoinscannowsettlepaymentsonvisasnetwo",
   "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
-  "illinoiscryptotaxdrawsunlikelyallianceofdojbanksanddefi"
+  "illinoiscryptotaxdrawsunlikelyallianceofdojbanksanddefi",
+  "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+  "whoiscolettekressjensenhuangssuccessorasnvidiaceo",
+  "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+  "nvidiaamdbroadcomtheaistockwinnersandlosersafterjensenhuangs",
+  "https://forklog.com/britanskij-bank-griffin-privlek-20-mln-dlya-razvitiya-stejblkoin-servisov",
+  "британскийбанкgriffinпривлек20млндляразвитиястейблкоинсервис"
  ],
  "slots_done": [
-  "2026-11-06 19:00",
   "2026-11-06 20:30",
   "2026-11-06 22:00",
   "2026-11-07 09:00",
@@ -561,6 +560,7 @@
   "2026-11-12 14:30",
   "2026-11-12 16:00",
   "2026-11-12 17:30",
-  "2026-11-12 19:00"
+  "2026-11-12 19:00",
+  "2026-11-12 20:30"
  ]
 }
