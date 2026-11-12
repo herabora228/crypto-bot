@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/ai/hugging-face-nauchila-ii-obshhatsya-s-dnk",
-  "huggingfaceнаучилаииобщатьсясднк",
   "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
   "whatisaneocloudthegpucloudspoweringtheaiboom",
   "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "usdatacenterrestrictionscouldgivebitcoinminersanedgeinaithou",
   "https://forklog.com/news/volna-kiberatak-pobudila-yuzhnuyu-koreyu-usilit-zashhitu-kriptobirzh",
-  "волнакибератакпобудилаюжнуюкореюусилитьзащитукриптобирж"
+  "волнакибератакпобудилаюжнуюкореюусилитьзащитукриптобирж",
+  "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+  "indiasfinancialcrimeswatchdograidscryptoexchangescoindcxandd"
  ],
  "slots_done": [
-  "2026-11-06 11:30",
   "2026-11-06 13:00",
   "2026-11-06 14:30",
   "2026-11-06 16:00",
@@ -561,6 +560,7 @@
   "2026-11-11 20:30",
   "2026-11-11 22:00",
   "2026-11-12 09:00",
-  "2026-11-12 10:00"
+  "2026-11-12 10:00",
+  "2026-11-12 11:30"
  ]
 }
