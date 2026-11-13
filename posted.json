@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/ai/politico-pentagon-sozdal-sekretnoe-podrazdelenie-dlya-tehnologicheskih-diversij",
-  "politicoпентагонсоздалсекретноеподразделениедлятехнологическ",
-  "https://forklog.com/news/ai/moonshot-ai-vypustila-kimi-k3-1-pro-i-ogranichila-ee-kibervozmozhnosti",
-  "moonshotaiвыпустилаkimik31proиограничилаеекибервозможности",
   "https://forklog.com/tether-zamorozila-2-2-mln-usdt-svyazannyh-s-intsidentom-coindcx",
   "tetherзаморозила22млнusdtсвязанныхсинцидентомcoindcx",
   "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
@@ -499,10 +495,13 @@
   "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
   "bitcoindropsto69konconcentratedliquidationandweakeningdemand",
   "https://cointelegraph.com/news/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "nakamotosharesfall6premarketafterq3revenueturnsnegative"
+  "nakamotosharesfall6premarketafterq3revenueturnsnegative",
+  "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+  "krakenparentpaywardsaysexpansionoutsidecryptotradinghelpscus",
+  "https://forklog.com/sec-tailanda-predlozhila-limit-na-operatsii-so-stejblkoinami",
+  "secтаиландапредложилалимитнаоперациисостейблкоинами"
  ],
  "slots_done": [
-  "2026-11-07 14:30",
   "2026-11-07 16:00",
   "2026-11-07 17:30",
   "2026-11-07 19:00",
@@ -561,6 +560,7 @@
   "2026-11-13 10:00",
   "2026-11-13 11:30",
   "2026-11-13 13:00",
-  "2026-11-13 14:30"
+  "2026-11-13 14:30",
+  "2026-11-13 16:00"
  ]
 }
