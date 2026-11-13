@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-  "strategystrivefacebalancingactbetweenbitcoinbuyingandpreferr",
-  "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-  "blocksnewvoiceaisoundseerilyhumansparkingaweandscamfears",
   "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
   "gamepublishershavepushedtocutdiscssince2007infinitywardveter",
   "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
@@ -499,10 +495,13 @@
   "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
   "bitcoinhits12weeklowasfedratefearsundomostofsummerrally",
   "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-  "bitcoinplungesto68000asanthropicipofrenzyaddstomarketjitters"
+  "bitcoinplungesto68000asanthropicipofrenzyaddstomarketjitters",
+  "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
+  "chinas32billionaipipelinestillcallsfornvidiachipswashingtonr",
+  "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+  "jpmorgansbitcoinandcryptolinkedholdingsapproach1billion"
  ],
  "slots_done": [
-  "2026-11-07 20:30",
   "2026-11-07 22:00",
   "2026-11-08 09:00",
   "2026-11-08 10:00",
@@ -561,6 +560,7 @@
   "2026-11-13 16:00",
   "2026-11-13 17:30",
   "2026-11-13 19:00",
-  "2026-11-13 20:30"
+  "2026-11-13 20:30",
+  "2026-11-13 22:00"
  ]
 }
