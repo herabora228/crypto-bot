@@ -1,11 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
-  "bitcoinetfssnaptwoweeklosingstreakdespitelateweekslide",
-  "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
-  "wellsfargociscointuitamong6morecompaniesobjectingtotokenized",
-  "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "ecbofficialseesdigitaleuroaskeytoprotectingeusovereignty",
   "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
   "latviatargetstokenizationrulesin2027withcommercialpropertyin",
   "https://forklog.com/news/ai/vlasti-shvetsii-zablokiruyut-chatgpt-i-claude-na-rabochih-kompyuterah",
@@ -499,10 +493,15 @@
   "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
   "openaianthropicgoogleandotheraigiantsfacelawsuitdemandingdev",
   "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-  "ethereumscalingprojectmegaethslashesstaffby20asitpursuesaibu"
+  "ethereumscalingprojectmegaethslashesstaffby20asitpursuesaibu",
+  "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+  "theweekjensenhuangfellhowaspyscandaltopplednvidiasceo",
+  "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+  "whatiscantonnetworktheprivacyblockchainbuiltforwallstreet",
+  "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+  "kazakhstanplanstokenizedgovernmentbondsinfirstquarterafter22"
  ],
  "slots_done": [
-  "2026-11-08 19:00",
   "2026-11-08 20:30",
   "2026-11-08 22:00",
   "2026-11-09 09:00",
@@ -561,6 +560,7 @@
   "2026-11-14 14:30",
   "2026-11-14 16:00",
   "2026-11-14 17:30",
-  "2026-11-14 19:00"
+  "2026-11-14 19:00",
+  "2026-11-14 20:30"
  ]
 }
