@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "bitcoinetfsbreak2weekoutflowstreakwith301mcomeback",
   "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "avivainvestorslaunchestokenizedshareclassof29bsterlingfundon",
   "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "enterpriseblockchainisgoingtocomebackfromthedead",
   "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-  "bitcoinetfslose21billioninnovemberasoutflowstreakhitssevenda"
+  "bitcoinetfslose21billioninnovemberasoutflowstreakhitssevenda",
+  "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+  "howwallstreetisracingtoclaimtheonchaindollar"
  ],
  "slots_done": [
-  "2026-11-09 16:00",
   "2026-11-09 17:30",
   "2026-11-09 19:00",
   "2026-11-09 20:30",
@@ -561,6 +560,7 @@
   "2026-11-15 11:30",
   "2026-11-15 13:00",
   "2026-11-15 14:30",
-  "2026-11-15 16:00"
+  "2026-11-15 16:00",
+  "2026-11-15 17:30"
  ]
 }
