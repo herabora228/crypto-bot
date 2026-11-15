@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/ai/vlasti-shvetsii-zablokiruyut-chatgpt-i-claude-na-rabochih-kompyuterah",
-  "властишвециизаблокируютchatgptиclaudeнарабочихкомпьютерах",
   "https://forklog.com/news/ai/vychislitelnye-ii-moshhnosti-kitaya-udvoyatsya-k-2027-godu-za-schet-amerikanskih-chipov",
   "вычислительныеиимощностикитаяудвоятсяк2027годузасчетамерикан",
   "https://forklog.com/news/bnb-chain-raskryla-detali-novoj-l1-seti",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
   "kazakhstanplanstokenizedgovernmentbondsinfirstquarterafter22",
   "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-  "uksingaporeandthailandcentralbankstestcrossborderfxsettlemen"
+  "uksingaporeandthailandcentralbankstestcrossborderfxsettlemen",
+  "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "coinonewarnsofphishingidentitytheftaftercustomerdatabreach"
  ],
  "slots_done": [
-  "2026-11-09 09:00",
   "2026-11-09 10:00",
   "2026-11-09 11:30",
   "2026-11-09 13:00",
@@ -561,6 +560,7 @@
   "2026-11-14 19:00",
   "2026-11-14 20:30",
   "2026-11-14 22:00",
-  "2026-11-15 09:00"
+  "2026-11-15 09:00",
+  "2026-11-15 10:00"
  ]
 }
