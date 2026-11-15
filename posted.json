@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/obzor-rynka-neft-oborvala-podem-riskovyh-aktivov",
-  "обзоррынканефтьоборвалаподъемрисковыхактивов",
-  "https://forklog.com/news/ai/pravoobladateli-pesen-elvisa-presli-potrebovali-ot-anthropic-do-41-1-mln",
-  "правообладателипесенэлвисапреслипотребовалиотanthropicдо411м",
   "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "bitcoinetfsbreak2weekoutflowstreakwith301mcomeback",
   "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +495,13 @@
   "https://forklog.com/coinone-soobshhila-ob-utechke-dannyh-klientov-cherez-podryadchika",
   "coinoneсообщилаобутечкеданныхклиентовчерезподрядчика",
   "https://forklog.com/razrabotchik-megaeth-uvolil-20-sotrudnikov",
-  "разработчикmegaethуволил20сотрудников"
+  "разработчикmegaethуволил20сотрудников",
+  "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "enterpriseblockchainisgoingtocomebackfromthedead",
+  "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+  "bitcoinetfslose21billioninnovemberasoutflowstreakhitssevenda"
  ],
  "slots_done": [
-  "2026-11-09 14:30",
   "2026-11-09 16:00",
   "2026-11-09 17:30",
   "2026-11-09 19:00",
@@ -561,6 +560,7 @@
   "2026-11-15 10:00",
   "2026-11-15 11:30",
   "2026-11-15 13:00",
-  "2026-11-15 14:30"
+  "2026-11-15 14:30",
+  "2026-11-15 16:00"
  ]
 }
