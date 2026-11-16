@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-  "bitcoinwalletfixescriticalflawthatredirectedfundstoattackers",
-  "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
-  "whypredictionmarketsgotthebrazilianelectionsowrong",
   "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
   "nbaembracesthecftconpredictionmarketsasthenflfightsitincourt",
   "https://forklog.com/news/intel-kupit-classiq-i-soberet-polnyj-kvantovyj-stek",
@@ -499,10 +495,13 @@
   "https://forklog.com/token-aster-obvalilsya-na-32-za-15-minut",
   "токенasterобвалилсяна32за15минут",
   "https://forklog.com/news/dbs-i-jpmorgan-zapustili-kruglosutochnye-transgranichnye-perevody-tokenizirovannyh-depozitov",
-  "dbsиjpmorganзапустиликруглосуточныетрансграничныепереводыток"
+  "dbsиjpmorganзапустиликруглосуточныетрансграничныепереводыток",
+  "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+  "singaporegermanytestcrossborderpaymentstoreducesettlementris",
+  "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+  "bitcoinslipsafterreboundingfromjuly14lowthattriggered2billio"
  ],
  "slots_done": [
-  "2026-11-10 11:30",
   "2026-11-10 13:00",
   "2026-11-10 14:30",
   "2026-11-10 16:00",
@@ -561,6 +560,7 @@
   "2026-11-15 22:00",
   "2026-11-16 09:00",
   "2026-11-16 10:00",
-  "2026-11-16 11:30"
+  "2026-11-16 11:30",
+  "2026-11-16 13:00"
  ]
 }
