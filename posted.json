@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-  "tomleesbitminefavorssharebuybackstoetherpurchasesascryptodec",
   "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
   "bitcoinwalletfixescriticalflawthatredirectedfundstoattackers",
   "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
   "didpredictionmarketscalltheusmidtermelectionstateofcrypto",
   "https://forklog.com/token-aster-obvalilsya-na-32-za-15-minut",
-  "токенasterобвалилсяна32за15минут"
+  "токенasterобвалилсяна32за15минут",
+  "https://forklog.com/news/dbs-i-jpmorgan-zapustili-kruglosutochnye-transgranichnye-perevody-tokenizirovannyh-depozitov",
+  "dbsиjpmorganзапустиликруглосуточныетрансграничныепереводыток"
  ],
  "slots_done": [
-  "2026-11-10 10:00",
   "2026-11-10 11:30",
   "2026-11-10 13:00",
   "2026-11-10 14:30",
@@ -561,6 +560,7 @@
   "2026-11-15 20:30",
   "2026-11-15 22:00",
   "2026-11-16 09:00",
-  "2026-11-16 10:00"
+  "2026-11-16 10:00",
+  "2026-11-16 11:30"
  ]
 }
