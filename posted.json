@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/ai/google-predstavila-genie-4-dlya-sozdaniya-interaktivnyh-mirov",
-  "googleпредставилаgenie4длясозданияинтерактивныхмиров",
   "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "bitcoinetfinflowsclimbto176masbtcreboundsabove80k",
   "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
   "predictionsplatformkalshicomplieswithordertohalttrumpmention",
   "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
-  "bitcoininvestorsarecapitulatingthatshistoricallybeenabottoms"
+  "bitcoininvestorsarecapitulatingthatshistoricallybeenabottoms",
+  "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "worldbankpartnerswithcirclecititoexplorestablecoinsforpaymen"
  ],
  "slots_done": [
-  "2026-11-11 19:00",
   "2026-11-11 20:30",
   "2026-11-11 22:00",
   "2026-11-12 09:00",
@@ -561,6 +560,7 @@
   "2026-11-17 19:00",
   "2026-11-17 20:30",
   "2026-11-17 22:00",
-  "2026-11-18 09:00"
+  "2026-11-18 09:00",
+  "2026-11-18 10:00"
  ]
 }
