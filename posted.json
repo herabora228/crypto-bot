@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-  "bitcoinreboundsabove81000asasianchiprallyspillsintocryptopep",
   "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "dtccunitlaunchestokenizationservices",
   "https://forklog.com/razrabotchiki-xrp-ledger-predlozhili-koshelki-bez-xrp-dlya-stejblkoinov",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
   "scatteredspiderhackersentencedto6yearsover116minstolencrypto",
   "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-  "bitcoindropsasnvidiaearningsreportdrivesstockindexfutureshig"
+  "bitcoindropsasnvidiaearningsreportdrivesstockindexfutureshig",
+  "https://forklog.com/news/ai/reuters-kitaj-obuchal-ii-modeli-na-otvetah-amerikanskih-sistem",
+  "reutersкитайобучалиимоделинаответахамериканскихсистем"
  ],
  "slots_done": [
-  "2026-11-12 09:00",
   "2026-11-12 10:00",
   "2026-11-12 11:30",
   "2026-11-12 14:30",
@@ -561,6 +560,7 @@
   "2026-11-18 09:00",
   "2026-11-18 10:00",
   "2026-11-18 11:30",
-  "2026-11-18 13:00"
+  "2026-11-18 13:00",
+  "2026-11-18 14:30"
  ]
 }
