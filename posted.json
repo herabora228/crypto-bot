@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
-  "moreamericanshavetriedcryptobutfewarestickingwithitsurvey",
-  "https://forklog.com/cryptorium/kak-otchety-ob-inflyatsii-v-ssha-vliyayut-na-aktsii-obligatsii-i-bitkoin",
-  "какотчетыобинфляциивсшавлияютнаакцииоблигацииибиткоин",
   "https://forklog.com/news/ai/microsoft-raskryla-10-mlrd-kvartalnoj-vyruchki-ot-openai",
   "microsoftраскрыла10млрдквартальнойвыручкиотopenai",
   "https://forklog.com/news/wagyu-podtverdila-utechku-dannyh-o-monero-svopah",
@@ -499,10 +495,13 @@
   "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "baincapitalcryptoleads110mvariationalroundat15bvaluation",
   "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "bitcoinetfassetsfalltothreemonthlowas2026netoutflowstop25b"
+  "bitcoinetfassetsfalltothreemonthlowas2026netoutflowstop25b",
+  "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
+  "bitcoinholdsabove63750butfedratehikethreatsloomlarge",
+  "https://forklog.com/news/iosco-predupredila-o-trudnostyah-perehoda-blokchejnov-na-kvantovuyu-zashhitu",
+  "ioscoпредупредилаотрудностяхпереходаблокчейновнаквантовуюзащ"
  ],
  "slots_done": [
-  "2026-11-12 22:00",
   "2026-11-13 09:00",
   "2026-11-13 10:00",
   "2026-11-13 11:30",
@@ -561,6 +560,7 @@
   "2026-11-18 20:30",
   "2026-11-18 22:00",
   "2026-11-19 09:00",
-  "2026-11-19 10:00"
+  "2026-11-19 10:00",
+  "2026-11-19 13:00"
  ]
 }
