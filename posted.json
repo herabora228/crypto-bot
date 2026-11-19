@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-  "thaisupremecourtrulesbitcoinispropertyafterthiefchallengesco",
   "https://forklog.com/news/solflare-kompensiruet-propushhennye-nagrady-po-stejkingu-160-mln-v-sol",
   "solflareкомпенсируетпропущенныенаградыпостейкингу160млнвsol",
   "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
@@ -499,10 +497,11 @@
   "https://forklog.com/h100-rassmotrit-vykup-do-10-aktsij-za-schet-bitkoin-aktivov",
   "h100рассмотритвыкупдо10акцийзасчетбиткоинактивов",
   "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-  "trumpsdemocraticsecpicksuggeststokenizationpolicydeservesful"
+  "trumpsdemocraticsecpicksuggeststokenizationpolicydeservesful",
+  "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+  "bitcoinentersdeathcrossasanthropicipofailstoliftwallstreet"
  ],
  "slots_done": [
-  "2026-11-13 11:30",
   "2026-11-13 13:00",
   "2026-11-13 14:30",
   "2026-11-13 16:00",
@@ -561,6 +560,7 @@
   "2026-11-19 10:00",
   "2026-11-19 13:00",
   "2026-11-19 16:00",
-  "2026-11-19 19:00"
+  "2026-11-19 19:00",
+  "2026-11-19 20:30"
  ]
 }
