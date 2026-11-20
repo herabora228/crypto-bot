@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/trezor-predupredila-o-vozmozhnom-shpionskom-implante-v-safe-5",
-  "trezorпредупредилаовозможномшпионскомимплантевsafe5",
   "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
   "trezorwarnscryptobilisbuyersafterreportofhardwareimplantinsa",
   "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/v-qcp-nazvali-usloviya-dlya-ustojchivogo-vosstanovleniya-bitkoina",
   "вqcpназвалиусловиядляустойчивоговосстановлениябиткоина",
   "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
-  "wrappedmonerotokencollapses99after13millionhackblamedonwebho"
+  "wrappedmonerotokencollapses99after13millionhackblamedonwebho",
+  "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "wrappedmonerotokencrashes998amidsuspected135mexploit"
  ],
  "slots_done": [
-  "2026-11-14 09:00",
   "2026-11-14 10:00",
   "2026-11-14 11:30",
   "2026-11-14 13:00",
@@ -561,6 +560,7 @@
   "2026-11-20 13:00",
   "2026-11-20 14:30",
   "2026-11-20 16:00",
-  "2026-11-20 19:00"
+  "2026-11-20 19:00",
+  "2026-11-20 20:30"
  ]
 }
