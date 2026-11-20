@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
-  "cryptospends176milliononmidtermsbutonly13ofvotersseeitasapri",
-  "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
-  "polymarketsuspendstradingafterthirdpartybreachleadstouserlos",
   "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
   "coinbaseswingsto719millionq3profitoncryptogains",
   "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
@@ -499,10 +495,13 @@
   "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
   "bitcoinstocksandgoldtradersgettingnervousandvolatilitygauges",
   "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
-  "moonpayappliesfornationaltrustbankchartertogrowcustodyandsta"
+  "moonpayappliesfornationaltrustbankchartertogrowcustodyandsta",
+  "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+  "ecbslargardewarnseuropecouldlosecontrolofgrowingtokenizedass",
+  "https://forklog.com/ledger-vyyavila-koshelki-s-vredonosnymi-implantami-v-berline",
+  "ledgerвыявилакошелькисвредоноснымиимплантамивберлине"
  ],
  "slots_done": [
-  "2026-11-13 19:00",
   "2026-11-13 20:30",
   "2026-11-13 22:00",
   "2026-11-14 09:00",
@@ -561,6 +560,7 @@
   "2026-11-20 09:00",
   "2026-11-20 10:00",
   "2026-11-20 11:30",
-  "2026-11-20 13:00"
+  "2026-11-20 13:00",
+  "2026-11-20 14:30"
  ]
 }
