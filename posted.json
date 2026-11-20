@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
-  "polygonextendsitsstablecoinpaymentsinfrastructuretosolana",
   "https://forklog.com/tether-zablokirovala-adresa-tron-s-27-mln-v-usdt",
   "tetherзаблокировалаадресаtronс27млнвusdt",
   "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
   "bitcoinentersdeathcrossasanthropicipofailstoliftwallstreet",
   "https://forklog.com/news/ai/smi-moonshot-ai-otkazalas-ot-arendy-chipov-nvidia-na-150-mln",
-  "смиmoonshotaiотказаласьотарендычиповnvidiaна150млн"
+  "смиmoonshotaiотказаласьотарендычиповnvidiaна150млн",
+  "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
+  "coinbasetargetsfirsthalf2027foritsownpredictionmarketcontrac"
  ],
  "slots_done": [
-  "2026-11-13 16:00",
   "2026-11-13 17:30",
   "2026-11-13 19:00",
   "2026-11-13 20:30",
@@ -561,6 +560,7 @@
   "2026-11-19 19:00",
   "2026-11-19 20:30",
   "2026-11-20 09:00",
-  "2026-11-20 10:00"
+  "2026-11-20 10:00",
+  "2026-11-20 11:30"
  ]
 }
