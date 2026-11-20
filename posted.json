@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-  "livenewsbinancehackrattlescryptoasintelplungesandaispendingf",
   "https://forklog.com/news/trezor-predupredila-o-vozmozhnom-shpionskom-implante-v-safe-5",
   "trezorпредупредилаовозможномшпионскомимплантевsafe5",
   "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
@@ -499,10 +497,11 @@
   "https://forklog.com/ledger-vyyavila-koshelki-s-vredonosnymi-implantami-v-berline",
   "ledgerвыявилакошелькисвредоноснымиимплантамивберлине",
   "https://forklog.com/news/v-qcp-nazvali-usloviya-dlya-ustojchivogo-vosstanovleniya-bitkoina",
-  "вqcpназвалиусловиядляустойчивоговосстановлениябиткоина"
+  "вqcpназвалиусловиядляустойчивоговосстановлениябиткоина",
+  "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+  "wrappedmonerotokencollapses99after13millionhackblamedonwebho"
  ],
  "slots_done": [
-  "2026-11-13 22:00",
   "2026-11-14 09:00",
   "2026-11-14 10:00",
   "2026-11-14 11:30",
@@ -561,6 +560,7 @@
   "2026-11-20 11:30",
   "2026-11-20 13:00",
   "2026-11-20 14:30",
-  "2026-11-20 16:00"
+  "2026-11-20 16:00",
+  "2026-11-20 19:00"
  ]
 }
