@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/tether-zablokirovala-adresa-tron-s-27-mln-v-usdt",
-  "tetherзаблокировалаадресаtronс27млнвusdt",
-  "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
-  "cryptoexchangehtxexitstheukaftersettlingwiththefca",
   "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
   "cryptospends176milliononmidtermsbutonly13ofvotersseeitasapri",
   "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
@@ -499,10 +495,13 @@
   "https://forklog.com/news/ai/smi-moonshot-ai-otkazalas-ot-arendy-chipov-nvidia-na-150-mln",
   "смиmoonshotaiотказаласьотарендычиповnvidiaна150млн",
   "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-  "coinbasetargetsfirsthalf2027foritsownpredictionmarketcontrac"
+  "coinbasetargetsfirsthalf2027foritsownpredictionmarketcontrac",
+  "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+  "bitcoinstocksandgoldtradersgettingnervousandvolatilitygauges",
+  "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+  "moonpayappliesfornationaltrustbankchartertogrowcustodyandsta"
  ],
  "slots_done": [
-  "2026-11-13 17:30",
   "2026-11-13 19:00",
   "2026-11-13 20:30",
   "2026-11-13 22:00",
@@ -561,6 +560,7 @@
   "2026-11-19 20:30",
   "2026-11-20 09:00",
   "2026-11-20 10:00",
-  "2026-11-20 11:30"
+  "2026-11-20 11:30",
+  "2026-11-20 13:00"
  ]
 }
