@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
-  "trezorwarnscryptobilisbuyersafterreportofhardwareimplantinsa",
-  "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "liveupdatesbinancesays634bsetasidetocoverhacklosses",
   "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "binanceworkingwithfbitorecoverassetsfollowing63bhack",
   "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
@@ -499,10 +495,13 @@
   "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
   "wrappedmonerotokencollapses99after13millionhackblamedonwebho",
   "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "wrappedmonerotokencrashes998amidsuspected135mexploit"
+  "wrappedmonerotokencrashes998amidsuspected135mexploit",
+  "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+  "nvidiasharessinkto52weeklowafterreportsecisprobingaccounting",
+  "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+  "sbfsthealtruistsplottwistftxsanthropicshareswouldbeworth43bi"
  ],
  "slots_done": [
-  "2026-11-14 10:00",
   "2026-11-14 11:30",
   "2026-11-14 13:00",
   "2026-11-14 14:30",
@@ -561,6 +560,7 @@
   "2026-11-20 14:30",
   "2026-11-20 16:00",
   "2026-11-20 19:00",
-  "2026-11-20 20:30"
+  "2026-11-20 20:30",
+  "2026-11-20 22:00"
  ]
 }
