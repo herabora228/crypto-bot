@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "blockchaininvestigatorchainalysishitbycybersecurityincident",
   "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
   "whyaimodelscheatrewardhackingexplained",
   "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
   "fraudstersusedfakecryptoexchangestosteal37millionsecalleges",
   "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-  "gta6leakerdanglesapcportbehinda15millioncryptopump"
+  "gta6leakerdanglesapcportbehinda15millioncryptopump",
+  "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+  "bitcoinreboundsabove60000after18billioncryptoliquidationwave"
  ],
  "slots_done": [
-  "2026-11-15 10:00",
   "2026-11-15 11:30",
   "2026-11-15 13:00",
   "2026-11-15 14:30",
@@ -561,6 +560,7 @@
   "2026-11-21 16:00",
   "2026-11-21 17:30",
   "2026-11-21 19:00",
-  "2026-11-21 20:30"
+  "2026-11-21 20:30",
+  "2026-11-21 22:00"
  ]
 }
