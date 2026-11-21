@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "bitcoinrisksworstoctoberin12yearsastechselloffspreadstogold",
   "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "cryptobizbitcoinsquantumthreatisbecominganeconomicproblem",
   "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/ai/v-oon-obsudili-pravila-dlya-avtonomnogo-oruzhiya",
   "воонобсудилиправиладляавтономногооружия",
   "https://forklog.com/strategy-otsenila-chistyj-rezerv-v-35-mlrd-i-zayavila-ob-otsutstvii-btc-v-zaloge",
-  "strategyоценилачистыйрезервв35млрдизаявилаоботсутствииbtcвза"
+  "strategyоценилачистыйрезервв35млрдизаявилаоботсутствииbtcвза",
+  "https://forklog.com/chainflip-priostanovil-operatsii-iz-za-vozmozhnogo-vzloma",
+  "chainflipприостановилоперациииззавозможноговзлома"
  ],
  "slots_done": [
-  "2026-11-14 17:30",
   "2026-11-14 19:00",
   "2026-11-14 20:30",
   "2026-11-14 22:00",
@@ -561,6 +560,7 @@
   "2026-11-21 09:00",
   "2026-11-21 10:00",
   "2026-11-21 11:30",
-  "2026-11-21 13:00"
+  "2026-11-21 13:00",
+  "2026-11-21 14:30"
  ]
 }
