@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/vzlom-binance-podnyal-vopros-o-dvojnyh-standartah-pri-zamorozke-ukradennoj-kriptovalyuty",
-  "взломbinanceподнялвопросодвойныхстандартахпризаморозкеукраде",
   "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "binance63brecordhacksparkspreelectionpoliticalchatter",
   "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
   "signalcallsoslevelaianexistentialthreatandblocksscreenshotst",
   "https://forklog.com/news/kraken-sohranila-sdelki-s-bitkoinom-po-tsene-vdvoe-nizhe-rynka",
-  "krakenсохраниласделкисбиткоиномпоценевдвоенижерынка"
+  "krakenсохраниласделкисбиткоиномпоценевдвоенижерынка",
+  "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+  "fraudstersusedfakecryptoexchangestosteal37millionsecalleges"
  ],
  "slots_done": [
-  "2026-11-14 22:00",
   "2026-11-15 09:00",
   "2026-11-15 10:00",
   "2026-11-15 11:30",
@@ -561,6 +560,7 @@
   "2026-11-21 13:00",
   "2026-11-21 14:30",
   "2026-11-21 16:00",
-  "2026-11-21 17:30"
+  "2026-11-21 17:30",
+  "2026-11-21 19:00"
  ]
 }
