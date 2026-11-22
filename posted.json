@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/fbr-obvinilo-hakerov-iz-kndr-vo-vzlome-binance-na-6-mlrd",
-  "фбробвинилохакеровизкндрвовзломеbinanceна6млрд",
   "https://forklog.com/news/ibm-zapustila-instrumenty-dlya-perehoda-na-postkvantovuyu-kriptografiyu",
   "ibmзапустилаинструментыдляпереходанапостквантовуюкриптографи",
   "https://forklog.com/tether-pochti-vosstanovila-izbytochnye-rezervy-posle-letnego-sokrashheniya",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "southkoreanexchangeshaltcybertransfersamidsuspectedbridgeexp",
   "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "chainflipconfirms12mhackoffersattacker10bounty"
+  "chainflipconfirms12mhackoffersattacker10bounty",
+  "https://www.coindesk.com/",
+  "moreonthependingoversighthearingsstateofcrypto"
  ],
  "slots_done": [
-  "2026-11-16 10:00",
   "2026-11-16 11:30",
   "2026-11-16 13:00",
   "2026-11-16 14:30",
@@ -561,6 +560,7 @@
   "2026-11-22 16:00",
   "2026-11-22 17:30",
   "2026-11-22 19:00",
-  "2026-11-22 20:30"
+  "2026-11-22 20:30",
+  "2026-11-22 22:00"
  ]
 }
