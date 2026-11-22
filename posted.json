@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-  "18yearsinwhathasbitcointrulydone",
   "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
   "anasdaqlistedcompanymaysell450millionbitcoincitingbinancehac",
   "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
   "bitcoinreboundsabove60000after18billioncryptoliquidationwave",
   "https://forklog.com/news/chainflip-predlozhil-hakeru-10-za-vozvrat-ukradennyh-12-mln",
-  "chainflipпредложилхакеру10завозвратукраденных12млн"
+  "chainflipпредложилхакеру10завозвратукраденных12млн",
+  "https://forklog.com/news/sec-obvinila-vosem-kompanij-v-hishhenii-37-mln-cherez-fejkovye-kriptoplatformy",
+  "secобвинилавосемькомпанийвхищении37млнчерезфейковыекриптопла"
  ],
  "slots_done": [
-  "2026-11-15 14:30",
   "2026-11-15 16:00",
   "2026-11-15 17:30",
   "2026-11-15 19:00",
@@ -561,6 +560,7 @@
   "2026-11-21 20:30",
   "2026-11-21 22:00",
   "2026-11-22 09:00",
-  "2026-11-22 10:00"
+  "2026-11-22 10:00",
+  "2026-11-22 11:30"
  ]
 }
