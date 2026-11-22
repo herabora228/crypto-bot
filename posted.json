@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-  "anasdaqlistedcompanymaysell450millionbitcoincitingbinancehac",
-  "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
-  "ubertestshowtokenizationcanputidlecashtoworkwithhsbcfranklin",
   "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
   "astoleniphone14000inlossesandlondonscryptotheftproblem",
   "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
@@ -499,10 +495,13 @@
   "https://forklog.com/news/chainflip-predlozhil-hakeru-10-za-vozvrat-ukradennyh-12-mln",
   "chainflipпредложилхакеру10завозвратукраденных12млн",
   "https://forklog.com/news/sec-obvinila-vosem-kompanij-v-hishhenii-37-mln-cherez-fejkovye-kriptoplatformy",
-  "secобвинилавосемькомпанийвхищении37млнчерезфейковыекриптопла"
+  "secобвинилавосемькомпанийвхищении37млнчерезфейковыекриптопла",
+  "https://forklog.com/news/ai/signal-ogranichit-dostup-ii-assistentov-k-perepiskam-polzovatelej",
+  "signalограничитдоступииассистентовкперепискампользователей",
+  "https://forklog.com/aave-uvelichil-limit-zajmov-v-usdc-do-4-mlrd-v-seti-ethereum",
+  "aaveувеличиллимитзаймоввusdcдо4млрдвсетиethereum"
  ],
  "slots_done": [
-  "2026-11-15 16:00",
   "2026-11-15 17:30",
   "2026-11-15 19:00",
   "2026-11-15 20:30",
@@ -561,6 +560,7 @@
   "2026-11-21 22:00",
   "2026-11-22 09:00",
   "2026-11-22 10:00",
-  "2026-11-22 11:30"
+  "2026-11-22 11:30",
+  "2026-11-22 13:00"
  ]
 }
