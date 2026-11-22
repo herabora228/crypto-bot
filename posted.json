@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
-  "whyaimodelscheatrewardhackingexplained",
   "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
   "18yearsinwhathasbitcointrulydone",
   "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
   "gta6leakerdanglesapcportbehinda15millioncryptopump",
   "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-  "bitcoinreboundsabove60000after18billioncryptoliquidationwave"
+  "bitcoinreboundsabove60000after18billioncryptoliquidationwave",
+  "https://forklog.com/news/chainflip-predlozhil-hakeru-10-za-vozvrat-ukradennyh-12-mln",
+  "chainflipпредложилхакеру10завозвратукраденных12млн"
  ],
  "slots_done": [
-  "2026-11-15 13:00",
   "2026-11-15 14:30",
   "2026-11-15 16:00",
   "2026-11-15 17:30",
@@ -561,6 +560,7 @@
   "2026-11-21 19:00",
   "2026-11-21 20:30",
   "2026-11-21 22:00",
-  "2026-11-22 09:00"
+  "2026-11-22 09:00",
+  "2026-11-22 10:00"
  ]
 }
