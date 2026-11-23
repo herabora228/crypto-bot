@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "deepseekdevelopingaiagentrequiringlesshumaninputreport",
   "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
   "bitcoinetfinvestorsheadfortheexitsafterrecordbinancehack",
   "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
   "tomleesaysethereumisasscarceasbitcoinandbitminejustboughtmor",
   "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
-  "gpujesushasrisenjensenhuangsnvidiacomebackgetsamemeparade"
+  "gpujesushasrisenjensenhuangsnvidiacomebackgetsamemeparade",
+  "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "kalshisecurestemporarywininnewyorkgamblinglawdispute"
  ],
  "slots_done": [
-  "2026-11-17 09:00",
   "2026-11-17 10:00",
   "2026-11-17 11:30",
   "2026-11-17 13:00",
@@ -561,6 +560,7 @@
   "2026-11-23 14:30",
   "2026-11-23 16:00",
   "2026-11-23 17:30",
-  "2026-11-23 20:30"
+  "2026-11-23 20:30",
+  "2026-11-23 22:00"
  ]
 }
