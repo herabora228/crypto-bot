@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-  "bitcoinetfinvestorsheadfortheexitsafterrecordbinancehack",
-  "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-  "aiagentsbypassedcryptospendinglimitswithouthumanapprovalrese",
   "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
   "thekeyracestowatchforthe2026election",
   "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
@@ -499,10 +495,13 @@
   "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
   "gpujesushasrisenjensenhuangsnvidiacomebackgetsamemeparade",
   "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "kalshisecurestemporarywininnewyorkgamblinglawdispute"
+  "kalshisecurestemporarywininnewyorkgamblinglawdispute",
+  "https://forklog.com/news/ai/anthropic-zapustila-claude-ship-dlya-avtomaticheskoj-proverki-i-odobreniya-koda",
+  "anthropicзапустилаclaudeshipдляавтоматическойпроверкииодобре",
+  "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+  "bitcoinfallsbelow60000asrallyonjensenhuangsnvidiareturnfades"
  ],
  "slots_done": [
-  "2026-11-17 11:30",
   "2026-11-17 13:00",
   "2026-11-17 17:30",
   "2026-11-17 19:00",
@@ -561,6 +560,7 @@
   "2026-11-23 17:30",
   "2026-11-23 20:30",
   "2026-11-23 22:00",
-  "2026-11-24 09:00"
+  "2026-11-24 09:00",
+  "2026-11-24 11:30"
  ]
 }
