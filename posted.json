@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/birzha-mercado-bitcoin-priostanovila-operatsii-posle-intsidenta-bezopasnosti",
-  "биржаmercadobitcoinприостановилаоперациипослеинцидентабезопа",
   "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
   "brazilslargestexchangemercadobitcoinhaltswithdrawalsafter40m",
   "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/verbovshhik-rabotnikov-skam-tsentrov-v-kambodzhe-poluchil-21-god-tyurmy",
   "вербовщикработниковскамцентроввкамбоджеполучил21годтюрьмы",
   "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "hongkonglaunchestokenizeddebtplatformwith24hoursettlement"
+  "hongkonglaunchestokenizeddebtplatformwith24hoursettlement",
+  "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
+  "frenchsenaterejectsplantomakecryptoholdersdeclareselfcustody"
  ],
  "slots_done": [
-  "2026-11-18 17:30",
   "2026-11-18 19:00",
   "2026-11-18 20:30",
   "2026-11-18 22:00",
@@ -561,6 +560,7 @@
   "2026-11-25 09:00",
   "2026-11-25 10:00",
   "2026-11-25 11:30",
-  "2026-11-25 13:00"
+  "2026-11-25 13:00",
+  "2026-11-25 14:30"
  ]
 }
