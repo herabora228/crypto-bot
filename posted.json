@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "coinbasehitwith50pricetargetcutaspostearningsroutdeepens",
   "https://forklog.com/crypto-com-zakroet-prilozhenie-dlya-roznichnyh-klientov-v-gonkonge",
   "cryptocomзакроетприложениедлярозничныхклиентоввгонконге",
   "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
   "ukrainepasseslawtolegalizeandtaxitscryptomarketfromjuly2027",
   "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-  "openaischangestochatgptcoulddrasticallycutusagelimitsforpayi"
+  "openaischangestochatgptcoulddrasticallycutusagelimitsforpayi",
+  "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "ethereumfoundationbackskeccak256tocounterquantumaithreats"
  ],
  "slots_done": [
-  "2026-11-19 09:00",
   "2026-11-19 10:00",
   "2026-11-19 13:00",
   "2026-11-19 16:00",
@@ -561,6 +560,7 @@
   "2026-11-25 14:30",
   "2026-11-25 16:00",
   "2026-11-25 17:30",
-  "2026-11-25 19:00"
+  "2026-11-25 19:00",
+  "2026-11-25 20:30"
  ]
 }
