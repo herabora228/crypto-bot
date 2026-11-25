@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "mercadobitcoinwalletskeepmovingfundsafter46mhack",
   "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
   "claudebuiltlinuxexploittargetsbugthatubuntustillhasntpatched",
   "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/ai/uchenye-peresmotreli-predstavleniya-o-prirode-razuma-na-fone-razvitiya-ii",
   "ученыепересмотрелипредставленияоприродеразуманафонеразвитияи",
   "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
-  "southkoreancryptoexchangebithumbwarnsofphishingafterdeeperoc"
+  "southkoreancryptoexchangebithumbwarnsofphishingafterdeeperoc",
+  "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+  "ukrainepasseslawtolegalizeandtaxitscryptomarketfromjuly2027"
  ],
  "slots_done": [
-  "2026-11-18 20:30",
   "2026-11-18 22:00",
   "2026-11-19 09:00",
   "2026-11-19 10:00",
@@ -561,6 +560,7 @@
   "2026-11-25 11:30",
   "2026-11-25 13:00",
   "2026-11-25 14:30",
-  "2026-11-25 16:00"
+  "2026-11-25 16:00",
+  "2026-11-25 17:30"
  ]
 }
