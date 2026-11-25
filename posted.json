@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/osnovatel-onekey-predupredil-o-riskah-hraneniya-sid-fraz-na-staryh-iphone",
-  "основательonekeyпредупредилорискаххранениясидфразнастарыхiph",
   "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
   "bitcoineasesto77900asbinancecustomerspull36billionafterwithd",
   "https://forklog.com/strategy-dokupila-811-btc-za-65-5-mln",
@@ -499,10 +497,11 @@
   "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "coldcardrevealshowsecurityreviewsmissedbitcoinwalletflawforo",
   "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-  "ethereumfoundationsaysaiisamoreurgentthreatthanquantumcomput"
+  "ethereumfoundationsaysaiisamoreurgentthreatthanquantumcomput",
+  "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "euseeksupto55bforaiandquantumcomputingfundreport"
  ],
  "slots_done": [
-  "2026-11-18 13:00",
   "2026-11-18 14:30",
   "2026-11-18 16:00",
   "2026-11-18 17:30",
@@ -561,6 +560,7 @@
   "2026-11-24 19:00",
   "2026-11-24 20:30",
   "2026-11-24 22:00",
-  "2026-11-25 09:00"
+  "2026-11-25 09:00",
+  "2026-11-25 10:00"
  ]
 }
