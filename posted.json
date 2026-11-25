@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
-  "claudebuiltlinuxexploittargetsbugthatubuntustillhasntpatched",
   "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "coinbasehitwith50pricetargetcutaspostearningsroutdeepens",
   "https://forklog.com/crypto-com-zakroet-prilozhenie-dlya-roznichnyh-klientov-v-gonkonge",
@@ -499,10 +497,11 @@
   "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
   "southkoreancryptoexchangebithumbwarnsofphishingafterdeeperoc",
   "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
-  "ukrainepasseslawtolegalizeandtaxitscryptomarketfromjuly2027"
+  "ukrainepasseslawtolegalizeandtaxitscryptomarketfromjuly2027",
+  "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+  "openaischangestochatgptcoulddrasticallycutusagelimitsforpayi"
  ],
  "slots_done": [
-  "2026-11-18 22:00",
   "2026-11-19 09:00",
   "2026-11-19 10:00",
   "2026-11-19 13:00",
@@ -561,6 +560,7 @@
   "2026-11-25 13:00",
   "2026-11-25 14:30",
   "2026-11-25 16:00",
-  "2026-11-25 17:30"
+  "2026-11-25 17:30",
+  "2026-11-25 19:00"
  ]
 }
