@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/crypto-com-zakroet-prilozhenie-dlya-roznichnyh-klientov-v-gonkonge",
-  "cryptocomзакроетприложениедлярозничныхклиентоввгонконге",
   "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
   "northkoreadenies63bbinancehackcallsfbifindingapoliticalprovo",
   "https://forklog.com/news/ai/v-kitae-zayavili-o-riskah-ii-buma",
@@ -499,10 +497,11 @@
   "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
   "openaischangestochatgptcoulddrasticallycutusagelimitsforpayi",
   "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "ethereumfoundationbackskeccak256tocounterquantumaithreats"
+  "ethereumfoundationbackskeccak256tocounterquantumaithreats",
+  "https://forklog.com/news/nvidia-soglasilas-vyplatit-290-mln-po-isku-aktsionerov-iz-za-majninga",
+  "nvidiaсогласиласьвыплатить290млнпоискуакционеровиззамайнинга"
  ],
  "slots_done": [
-  "2026-11-19 13:00",
   "2026-11-19 16:00",
   "2026-11-19 19:00",
   "2026-11-19 20:30",
@@ -561,6 +560,7 @@
   "2026-11-25 17:30",
   "2026-11-25 19:00",
   "2026-11-25 20:30",
-  "2026-11-26 09:00"
+  "2026-11-26 09:00",
+  "2026-11-26 10:00"
  ]
 }
