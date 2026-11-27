@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/gonkong-odobril-pravila-nalogovoj-otchetnosti-po-kriptoaktivam",
-  "гонконгодобрилправиланалоговойотчетностипокриптоактивам",
-  "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
-  "bitcoinreboundsafterdemocraticmidtermsweepbutcryptofacestoug",
   "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
   "techaistockssplitafterdemocraticsweepmicrosoftjumpsteslaandn",
   "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,10 +495,13 @@
   "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
   "bitcoinoncoursetoendsevenweeklosingstreakwhiletrailingstockr",
   "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
-  "livenewsbitcoinreboundsabove61000asaistocksleadpremarketgain"
+  "livenewsbitcoinreboundsabove61000asaistocksleadpremarketgain",
+  "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+  "kalshiturnstosmallbusinessesaslegalbattlesthreatenforecastso",
+  "https://forklog.com/news/bitkoin-vernulsya-vyshe-61-000-na-fone-rekordnyh-ottokov-iz-etf",
+  "биткоинвернулсявыше61000нафонерекордныхоттоковизetf"
  ],
  "slots_done": [
-  "2026-11-20 22:00",
   "2026-11-21 09:00",
   "2026-11-21 10:00",
   "2026-11-21 11:30",
@@ -561,6 +560,7 @@
   "2026-11-27 09:00",
   "2026-11-27 10:00",
   "2026-11-27 11:30",
-  "2026-11-27 13:00"
+  "2026-11-27 13:00",
+  "2026-11-27 14:30"
  ]
 }
