@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-  "zachxbtnamesfrenchbankcrditmutuelarkaassuspectedvictimof133m",
   "https://decrypt.co/382489/midterms-blue-wave-makes-917k-for-one-polymarket-trader-if-alaska-doesnt-flip",
   "midtermsbluewavemakes917kforonepolymarkettraderifalaskadoesn",
   "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
@@ -499,10 +497,11 @@
   "https://forklog.com/news/ai/issledovanie-pered-osennej-rasprodazhej-aktsii-ii-kompanij-pokazali-priznaki-puzyrya-dotkomov",
   "исследованиепередосеннейраспродажейакциииикомпанийпоказалипр",
   "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "esmatooverhauleusmicacryptoregisterin2027"
+  "esmatooverhauleusmicacryptoregisterin2027",
+  "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+  "ethereumsetsdecember15datefordelayedglamsterdamtestnetupgrad"
  ],
  "slots_done": [
-  "2026-11-20 19:00",
   "2026-11-20 20:30",
   "2026-11-20 22:00",
   "2026-11-21 09:00",
@@ -561,6 +560,7 @@
   "2026-11-26 19:00",
   "2026-11-26 20:30",
   "2026-11-27 09:00",
-  "2026-11-27 10:00"
+  "2026-11-27 10:00",
+  "2026-11-27 11:30"
  ]
 }
