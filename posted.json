@@ -1,7 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/coinw-obyasnila-kak-rabotaet-popolnenie-v-rublyah-cherez-cifra-markets",
-  "coinwобъяснилакакработаетпополнениеврубляхчерезciframarkets",
   "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
   "bitcoinminersareoversoldfollowing35octoberroutvanecksays",
   "https://forklog.com/orange-prisoedinilas-k-programme-kvantovo-ustojchivoj-ustanovki-esim",
@@ -499,10 +497,11 @@
   "https://forklog.com/cryptorium/chto-takoe-postkvantovye-sertifikaty",
   "чтотакоепостквантовыесертификаты",
   "https://forklog.com/news/ai/openai-obvinila-apple-v-krazhe-kommercheskih-tajn-i-davlenii-na-postavshhikov",
-  "openaiобвинилаappleвкражекоммерческихтайнидавлениинапоставщи"
+  "openaiобвинилаappleвкражекоммерческихтайнидавлениинапоставщи",
+  "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+  "trumplinkedcryptotokenwlfiplunges50torecordlows"
  ],
  "slots_done": [
-  "2026-11-21 16:00",
   "2026-11-21 17:30",
   "2026-11-21 19:00",
   "2026-11-21 20:30",
@@ -561,6 +560,7 @@
   "2026-11-27 20:30",
   "2026-11-27 22:00",
   "2026-11-28 09:00",
-  "2026-11-28 10:00"
+  "2026-11-28 10:00",
+  "2026-11-28 11:30"
  ]
 }
