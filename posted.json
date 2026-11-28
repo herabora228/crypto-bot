@@ -1,9 +1,5 @@
 {
  "posted": [
-  "https://forklog.com/news/polygon-predlozhila-vernut-binance-i-polymarket-6-5-mln-cherez-hardfork",
-  "polygonпредложилавернутьbinanceиpolymarket65млнчерезхардфорк",
-  "https://forklog.com/news/ai/openai-soobshhila-ob-obnaruzhenii-948-uyazvimostej-v-yadre-linux",
-  "openaiсообщилаобобнаружении948уязвимостейвядреlinux",
   "https://forklog.com/news/coinw-obyasnila-kak-rabotaet-popolnenie-v-rublyah-cherez-cifra-markets",
   "coinwобъяснилакакработаетпополнениеврубляхчерезciframarkets",
   "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
@@ -499,10 +495,13 @@
   "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
   "7billioninbitcoinoptionsjustexpiredhereswhatitmeans",
   "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
-  "couldaibreakbitcoinnotyetresearchfirmk33says"
+  "couldaibreakbitcoinnotyetresearchfirmk33says",
+  "https://forklog.com/cryptorium/chto-takoe-postkvantovye-sertifikaty",
+  "чтотакоепостквантовыесертификаты",
+  "https://forklog.com/news/ai/openai-obvinila-apple-v-krazhe-kommercheskih-tajn-i-davlenii-na-postavshhikov",
+  "openaiобвинилаappleвкражекоммерческихтайнидавлениинапоставщи"
  ],
  "slots_done": [
-  "2026-11-21 14:30",
   "2026-11-21 16:00",
   "2026-11-21 17:30",
   "2026-11-21 19:00",
@@ -561,6 +560,7 @@
   "2026-11-27 19:00",
   "2026-11-27 20:30",
   "2026-11-27 22:00",
-  "2026-11-28 09:00"
+  "2026-11-28 09:00",
+  "2026-11-28 10:00"
  ]
 }
